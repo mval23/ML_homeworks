@@ -1,0 +1,1612 @@
+# PEDIDO ,FECHA DE TUESTE ,FECHA DE EMPAQUE ,TIPO DE CAFÉ   ,PRESENTACIÓN ,,CANTIDAD ,,,CLIENTE ,RESPONSABLE DESPACHO ,VERIFICA 
+,,,,,,,,,,,
+564,22-7-22,25-7-22,Madre Laura ,500 Gr,,3,,,Natalia Londoño ,LFQ ,MS 
+564,22-7-22,25-7-22,Madre Laura ,1000 Gr ,,1,,,Natalia Londoño ,LFQ ,MS 
+566,22-7-22,25-7-22,Madre Laura ,2500 Gr ,,2,,,Mateo Duque ,LFQ ,MS 
+567,22-7-22,26-7-22,Madre Laura ,2500 Gr,,1,,,Akio,LFQ ,MS 
+568,25-7-22,26-7-22,Madre Laura ,2500 Gr ,,3,,,Juan Camilo Baez,LFQ ,MS 
+569,25-7-22,26-7-22,Madre Laura ,340 Gr ,,1,,,Daniel Velasquez ,LFQ ,MS 
+572,25-7-22,27-7-22,Madre Laura ,340 Gr ,,3,,,Daniel Velasquez ,LFQ ,MS 
+574,25-7-22,27-7-22,Madre Laura ,500 Gr,,1,,,Luz Obando ,LFQ ,MS 
+573,28-7-22,28-7-22,Madre Laura ,340 Gr,,5,,,Henry Wilson,LFQ ,MS 
+575,28-7-22,28-7-22,Don Felix ,340 Gr,,1,,,Eric Daru,LFQ ,MS 
+575,28-7-22,28-7-22,Tabi Natural,340 GR ,,1,,,Eric Daru,LFQ ,MS 
+N/A ,28-7-22,28-7-23,Madre Laura ,340 Gr,,1,,,Daniel Velasquez ,LFQ ,MS 
+577,28-7-22,28-7-22,Madre Laura ,2500 GR,,1,,,Raul - Barranquilla ,LFQ ,MS 
+578,31-7-22,1-8-22,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,MS 
+580,31-7-22,2-8-22,Madre Laura ,1000 GR,,1,,,Maria Cano ,LFQ ,MS 
+581,31-7-22,2-8-22,Madre Laura ,250 GR,,2,,,Luz Obando ,LFQ ,MS 
+583,2-8-22,3-8-22,Madre Laura ,2500 GR,,2,,,Raul - Barranquilla ,LFQ ,MS 
+582,31-7-22,3-8-22,Madre Laura ,2500 GR,,2,,,Manuela Gomez ,LFQ ,MS 
+586,31-7-22,4-8-22,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez,LFQ ,MS 
+586,31-7-22,4-8-22,Madre Laura ,500 GR,,2,,,Juan Camilo Baez,LFQ ,MS 
+595,8-8-22,8-8-22,Madre Laura ,2500 GR,,42,,,Epoca ,LFQ ,MS 
+595,8-8-22,8-8-22,Tabi Natural,2500 GR,,4,,,Epoca ,LFQ ,MS 
+591,2-8-22,8-8-22,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,MS 
+592,6-8-22,9-8-22,Madre Laura ,2500 GR,,2,,,Manuela Gomez ,LFQ ,MS 
+593,6-8-22,9-8-22,Madre Laura ,2500 GR,,2,,,Monkey Group ,LFQ ,MS 
+593,6-8-22,9-8-22,Madre Laura ,340 GR,,4,,,Monkey Group ,LFQ ,MS 
+596,6-8-22,10-8-22,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,MS 
+597,6-8-22,10-8-22,Madre Laura ,500 GR,,2,,,Akio,LFQ ,MS 
+N/A,6-8-22,12-8-22,Madre Laura ,340 GR ,,6,,,Daniel Velasquez ,LFQ ,MS 
+604,6-8-22,12-8-22,Madre Laura ,340 GR,,2,,,Monkey Group ,LFQ ,MS 
+605,12-8-22,16-8-22,Madre Laura ,340 GR ,,3,,,Daniel Velasquez ,LFQ ,MS 
+606,12-8-22,16-8-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+606,12-8-22,16-8-22,Madre Laura ,500 GR,,2,,,Juan Camilo Baez,LFQ ,MS 
+607,12-8-22,16-8-22,Madre Laura ,2500 GR,,4,,,Mateo Duque ,LFQ ,MS 
+609,12-8-22,17-8-22,Madre Laura ,500 GR,,3,,,Akio,LFQ ,MS 
+611,18-8-22,18-8-22,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,MS 
+610,18-8-22,18-8-22,Doña Dolly,20 KG,,1,,,Carlos Felipe ,LFQ ,MS 
+613,12-8-22,19-8-22,Madre Laura ,500 GR,,1,,,Akio,LFQ ,MS 
+612,12-8-22,19-8-22,Madre Laura ,340 GR,,5,,,Monkey Group ,LFQ ,MS 
+614,12-8-22,22-8-22,Madre Laura ,2500 GR,,1,,,Juan Pablo ,LFQ ,MS 
+615,18-8-22,22-8-22,Madre Laura ,2500 GR ,,2,,,Mateo Duque ,LFQ ,MS 
+616,12-8-22,22-8-22,Madre Laura ,340 GR,,3,,,Monkey Group ,LFQ ,MS 
+617,18-8-22,23-8-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+620,12-8-22,23-8-22,Madre Laura ,500 GR,,1,,,Akio,LFQ ,MS 
+621,18-8-22,25-8-22,Madre Laura ,2500 GR,,2,,,Manuela Gomez ,LFQ ,MS 
+626,12-8-22,29-8-22,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,MS 
+627,18-8-22,29-8-22,Madre Laura ,500 GR,,1,,,Daniel Velasquez ,LFQ ,MS 
+627,18-8-22,29-8-22,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,MS 
+628,18-8-22,30-8-22,Madre Laura ,250 GR,,1,,,Manuela Serna ,LFQ ,MS 
+629,18-8-22,31-8-22,Madre Laura ,250 GR,,2,,,Hotel The Charly ,LFQ ,MS 
+631,29-8-22,31-8-22,Madre Laura ,2500 GR ,,38,,,Epoca ,LFQ ,MS 
+631,29-8-22,31-8-22,Tabi Natural,2500 GR ,,2,,,Epoca ,LFQ ,MS 
+632,30-8-22,31-8-22,Madre Laura ,2500 GR ,,5,,,Raul - Barranquilla ,LFQ ,MS 
+633,30-822,2-9-22,Madre Laura ,340 GR ,,6,,,Daniel Velasquez ,LFQ ,MS 
+634,30-8-22,2-9-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+635,2-9-22,2-9-22,Madre Laura ,500 GR ,,3,,,Andres Ovalle ,LFQ ,MS 
+638,5-9-22,2-9-22,Madre Laura ,340 GR,,6,,,Daniel Velasquez ,LFQ ,MS 
+639,5-9-22,2-9-22,Madre Laura ,2500 GR ,,4,,,Kafeina ,LFQ ,MS 
+640,6-9-22,2-9-22,Madre Laura ,2500 GR,,2,,,Monkey Group ,LFQ ,MS 
+641,6-9-22,2-9-22,Madre Laura ,2500 GR,,1,,,Bibiana Zapata,LFQ ,MS 
+N/A ,6-9-2022,6-9-22,Madre Laura ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,MS 
+637,2-9-22,2-9-22,Madre Laura ,340 GR ,,2,,,Monkey Group ,LFQ ,MS 
+643,2-9-22,6-9-22,Madre Laura ,340 GR,,2,,,Monkey Group ,LFQ ,MS 
+645,2-9-22,6-9-22,Madre Laura ,250 GR ,,1,,,Luz Obando ,LFQ ,MS 
+N/A ,6-9-22,6-9-22,Madre Laura ,340 GR ,,3,,,Daniel Velasquez ,LFQ ,MS 
+647,12-9-22,6-9-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+648,13-9-22,6-9-22,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,MS 
+649,13-9-22,6-9-22,Madre Laura ,500 GR ,,1,,,Lina Orozco ,LFQ ,MS 
+649,13-9-22,6-9-22,Madre Laura ,250 GR,,1,,,Lina Orozco ,LFQ ,MS 
+650,13-9-22,13-9-22,Madre Laura ,250 GR ,,1,,,Henry Wilson,LFQ ,MS 
+652,16-9-22,6-9-22,Madre Laura ,2500 GR,,3,,,Kafeina ,LFQ ,MS 
+653,16-9-22,6-9-22,Madre Laura ,2500 GR ,,3,,,Raul - Barranquilla ,LFQ ,MS 
+654,16-9-22,13-9-22,Madre Laura ,2500 GR ,,2,,,Manuela Gomez ,LFQ ,MS 
+660,16-9-22,16-9-22,Madre Laura ,2500 GR ,,3,,,Raul - Barranquilla ,LFQ ,MS 
+656,16-9-22,16-9-22,Madre Laura ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,MS 
+663,21-9-22,13-9-22,Madre Laura ,500 GR ,,2,,,Isabel Peña ,LFQ ,MS 
+664,22-9-22,13-9-22,Madre Laura ,340 GR ,,2,,,Monkey Group ,LFQ ,MS 
+664,22-9-22,13-9-22,Madre Laura ,500 GR ,,2,,,Monkey Group ,LFQ ,MS 
+666,23-9-22,13-9-22,Madre Laura ,2500 GR ,,2,,,Brandex Global ,LFQ ,MS 
+668,23-9-22,23-9-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+669,23-9-22,26-9-22,Madre Laura ,2500 GR ,,2,,,Kafeina ,LFQ ,MS 
+673,26-9-22,26-9-22,Madre Laura ,2500 GR ,,38,,,Epoca ,LFQ ,MS 
+673,26-9-22,26-9-22,Tabi ,2500 GR ,,2,,,Epoca ,LFQ ,MS 
+670,26-9-22,26-9-22,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,MS 
+671,27-9-22,26-9-22,Madre Laura ,2500 GR ,,2,,,Kafeina ,LFQ ,MS 
+672,28-9-22,26-9-22,Madre Laura ,2500 GR ,,1,,,Manuela Gomez ,LFQ ,MS 
+677,26-9-22,30-9-22,Madre Laura ,340 GR,,2,,,Monkey Group ,LFQ ,MS 
+678,26-9-22,1-10-22,Madre Laura ,2500 GR,,2,,,Manuela Gomez ,LFQ ,MS 
+679,29-9-22,3-10-22,Madre Laura ,2500 GR ,,4,,,Kafeina ,LFQ ,MS 
+683,3-10-22,3-10-22,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,MS 
+680,29-9-22,3-10-22,Madre Laura ,340 GR,,6,,,Daniel Velasquez ,LFQ ,MS 
+681,29-9-22,3-10-22,Madre Laura ,340 GR,,8,,,Daniel Velasquez ,LFQ ,MS 
+684,29-9-22,3-10-22,Madre Laura ,340 GR,,2,,,Collin,LFQ ,MS 
+685,29-9-22,3-10-22,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,MS 
+686,5-10-22,5-10-22,Madre Laura , 2500 GR ,,7,,,Raul - Barranquilla ,LFQ ,MS 
+688,5-10-22,10-10-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez,LFQ ,MS 
+688,5-10-22,10-10-22,Madre Laura ,500 GR ,,1,,,Juan Camilo Baez,LFQ ,MS 
+690,5-10-22,10-10-22,Madre Laura ,2500 GR ,,1,,,Bibiana Zapata,LFQ ,MS 
+690,5-10-22,10-10-22,Madre Laura ,500 GR ,,1,,,Bibiana Zapata,LFQ ,MS 
+694,5-10-22,10-10-22,Madre Laura ,2500GR ,,4,,,Kafeina ,LFQ ,MS 
+695,5-10-22,10-10-22,Madre Laura ,2500 GR ,,1,,,Monkey Group ,LFQ ,MS 
+697,13-10-22,13-10-22,Madre Laura ,2500 GR ,,46,,,Epoca ,LFQ ,MS 
+697,13-10-22,13-10-22,Tabi Natural,2500 GR ,,6,,,Epoca ,LFQ ,MS 
+688,13-10-22,13-10-22,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez,LFQ ,MS 
+688,13-10-22,13-10-22,Madre Laura ,500 GR ,,1,,,Juan Camilo Baez,LFQ ,MS 
+690,13-10-22,13-10-22,Madre Laura ,2500 GR,,1,,,Bibiana Zapata,LFQ ,MS 
+690,13-10-22,13-10-22,Madre Laura ,500 GR ,,1,,,Bibiana Zapata,LFQ ,MS 
+693,13-10-22,13-10-22,Madre Laura ,2500 GR ,,4,,,Kafeina ,LFQ ,MS 
+669,13-10-22,19-10-22,Madre Laura ,2500 GR,,3,,,Manuela Gomez ,LFQ ,MS 
+700,13-10-22,19-10-22,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez,LFQ ,MS 
+701,13-10-22,20-10-22,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,MS 
+702,15-10-22,20-10-22,Madre Laura ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,MS 
+705,15-10-22,20-10-22,Madre Laura ,340 GR,,2,,,Monkey Group ,LFQ ,MS 
+721,15-10-22,24-10-22,Madre Laura ,2500 GR,,1,,,Brandex Global ,LFQ ,MS 
+710,24-10-22,24-10-22,Madre Laura ,2500 GR,,5,,,Raul - Barranquilla ,LFQ ,MS 
+712,27-10-22,27-10-22,Madre Laura ,340 GR ,,4,,,Brandex Global ,LFQ ,DV
+713,27-10-22,27-10-22,Madre Laura ,2500 GR,,1,,,Bambina ,LFQ ,DV
+717,27-10-22,27-10-22,Madre Laura ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+715,27-10-22,27-10-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+714,27-10-22,27-10-22,Madre Laura ,2500 GR ,,3,,,Kafeina ,LFQ ,DV
+718,27-10-22,27-10-22,Madre Laura ,340 GR,,8,,,Monkey Group ,LFQ ,DV
+724,27-10-22,27-10-22,Madre Laura ,340 GR,,5,,,Daniel Velasquez ,LFQ ,DV
+722,27-10-22,1-11-22,Madre Laura ,2500 GR,,5,,,Kafeina ,LFQ ,DV
+730,27-10-22,4-11-22,Madre Laura ,340 GR,,6,,,Daniel Velasquez ,LFQ ,DV
+N/A,27-10-22,2-11-22,Madre Laura ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+730,27-10-22,8-11-22,Madre Laura ,1000 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+732,27-10-22,8-11-22,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+731,27-10-22,9-11-22,Madre Laura ,2500 GR ,,1,,,Manuela Gomez ,LFQ ,DV
+734,27-10-22,9-11-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo ,LFQ ,DV
+737,2-11-22,9-11-22,Madre Laura ,2500 GR ,,2,,,Monkey Group ,LFQ ,DV
+737,2-11-22,9-11-22,Madre Laura ,340 GR ,,2,,,Monkey Group ,LFQ ,DV
+736,8-11-22,10-11-22,Tabi Natural,2500 GR ,,10,,,Epoca ,LFQ ,DV
+736,8-11-22,10-11-22,Madre Laura ,2500 GR ,,46,,,Epoca ,LFQ ,DV
+738,10-11-22,10-11-22,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+739,2-11-22,11-11-22,Madre Laura ,2500 GR ,,2,,,Bambina ,LFQ ,DV
+746,2-11-22,11-11-22,Madre Laura ,2500 GR,,3,,,kafeina ,LFQ ,DV
+743,8-11-22,11-11-22,Madre Laura ,2500 GR ,,1,,,Casa Ramal ,LFQ ,DV
+N/A,8-11-22,11-11-22,Madre Laura ,340 GR ,,1,,,Casa Ramal ,LFQ ,DV
+745,10-11-22,18-11-22,Madre Laura ,2500GR ,,3,,,Juan Camilo ,LFQ ,DV
+752,10-11-22,18-11-22,Madre Laura ,2500 GR ,,4,,,Delmuri ,LFQ ,DV
+740,11-11-22,18-11-22,Madre Laura ,2500 GR ,,3,,,Kafeina ,LFQ ,DV
+738,11-11-22,21-11-22,Madre Laura ,2500 GR,,5,,,Raul - Barranquilla ,LFQ ,DV
+749,21-11-22,23-11-22,Madre Laura ,2500 GR ,,1,,,Manuela Gomez ,LFQ ,DV
+750,11-11-22,24-11-22,Madre Laura ,780 GR ,,2,,,Monkey Group,LFQ ,DV
+751,11-11-22,24-11-22,Madre Laura ,500 GR,,1,,,Luisa Quintero ,LFQ ,DV
+755,11-11-22,28-11-22,Madre Laura ,2500 GR ,,3,,,Kafeina ,LFQ ,DV
+757,11-11-22,28-11-22,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+756,11-11-22,28-11-22,Madre Laura ,2500 GR ,,1,,,Bibiana Zapata,LFQ ,DV
+761,11-11-22,29-11-22,Madre Laura ,2500 GR,,1,,,Alberto Jaramillo ,LFQ ,DV
+763,11-11-22,29-11-22,Madre Laura ,340 GR ,,3,,,Monkey Group ,LFQ ,DV
+762,28-11-22,30-11-22,Madre Laura ,2500 GR,,44,,,Epoca ,LFQ ,DV
+762,28-11-22,30-11-22,Tabi Natural,2500 GR ,,14,,,Epoca ,LFQ ,DV
+765,21-11-22,1-12-22,Madre Laura ,2500 GR ,,1,,,Manuela Gomez ,LFQ ,DV
+764,29-11-22,2-12-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+766,29-11-22,2-12-22,Madre Laura ,2500 GR,,3,,,Kfeina ,LFQ ,DV
+N/A,29-11-22,5-12-22,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+767,4-12-22,5-12-22,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+788,29-11-22,6-12-22,Madre Laura ,500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+788,29-11-22,6-12-22,Madre Laura ,500 GR ,,2,,,Manuel Mora ,LFQ ,DV
+771,29-11-22,6-12-22,Madre Laura ,340 GR ,,3,,,Monkey Group ,LFQ ,DV
+788,29-11-22,6-12-22,Madre Laura ,500 GR,,1,,,Luz Dary Roman ,LFQ ,DV
+772,29-11-22,7-12-22,Madre Laura ,2500 GR ,,3,,,Casa Ramal ,LFQ ,DV
+773,4-12-22,9-12-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+776,4-12-22,11-12-22,Madre Laura ,2500 GR ,,1,,,Bambina ,LFQ ,DV
+778,4-12-22,13-12-22,Madre Laura ,2500 GR ,,3,,,Kfeina ,LFQ ,DV
+779,4-12-22,13-12-22,Madre Laura ,2500 GR ,,2,,,Manuela Gomez ,LFQ ,DV
+788,4-12-22,13-12-22,Madre Laura ,2500 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+787,11-12-22,14-12-22,Madre Laura ,2500 GR ,,4,,,Monkey Group,LFQ ,DV 
+789,11-12-22,16-12-22,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+795,16-11-22,16-12-22,Madre Laura ,2500 GR,,4,,,Raul - Barranquilla ,LFQ ,DV
+797,14-12-22,19-12-22,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+796,14-12-22,19-12-22,Madre Laura ,2500 GR,,1,,,Bibiana Zapata,LFQ ,DV
+796,14-12-22,19-12-22,Madre Laura ,340 GR ,,1,,,Bibiana Zapata,LFQ ,DV
+800,14-12-22,20-12-22,Madre Laura ,2500 GR ,,44,,,Epoca ,LFQ ,DV
+801,14-12-22,20-12-22,Madre Laura ,2500 GR ,,8,,,Epoca ,LFQ ,DV
+804,14-12-22,21-12-22,Madre Laura ,2500 GR,,3,,,Kfeina ,LFQ ,DV
+805,14-12-22,21-12-22,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez ,LFQ ,DV
+808 -809,29-12-22,29-12-22,Madre Laura ,2500 GR ,,76,,,Epoca ,LFQ ,DV
+808 -809,22-12-22,29-12-22,Tabi Natural,2500 GR ,,20,,,Epoca ,LFQ ,DV
+807,22-12-22,29-12-22,Madre Laura ,2500 GR,,1,,,Bambina ,LFQ ,DV
+810,22-12-22,29-12-22,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+811,15-12-22,30-12-22,Madre Laura ,2500 GR ,,5,,,ECC ,LFQ ,DV
+811,15-12-22,30-12-22,Madre Laura ,2500 GR ,,3,,,ECC ,LFQ ,DV
+811,15-12-22,30-12-22,Madre Laura Natural ,2500 GR,,2,,,ECC ,LFQ ,DV
+811,15-12-22,30-12-22,Gesha Honey ,2500 GR,,3,,,ECC ,LFQ ,DV
+811,15-12-22,30-12-22,Doña Dolly,2500 GR,,3,,,ECC ,LFQ ,DV
+811,15-12-22,30-12-22,Madre Laura ,340 GR ,,8,,,ECC ,LFQ ,DV
+824,22-12-22,05-01-23,Madre Laura ,2500 GR ,,6,,,Raul - Barranquilla ,LFQ ,DV 
+825,22-12-22,05-01-23,Madre Laura ,2500 GR ,,1,,,Brandex Global ,LFQ ,DV
+826,22-12-22,05-01-23,Madre Laura ,340 GR ,,4,,,Monkey Group,LFQ ,DV
+823,22-12-22,05-01-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+828,29-12-22,12-1-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo ,LFQ ,DV
+830,29-12-22,13-1-23,Madre Laura ,340 GR ,,10,,,Daniel Velasquez ,LFQ ,DV 
+831,29-12-22,13-1-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV 
+829,29-12-22,13-1-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV 
+834,18-01-23,18-01-23,Madre Laura ,2500 GR ,,38,,,Epoca ,LFQ ,DV 
+835,18-01-23,18-01-23,Madre Laura ,2500 GR ,,12,,,Epoca ,LFQ ,DV 
+836,18-01-23,18-01-23,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV 
+837,18-01-23,18-01-23,Madre Laura ,2500 GR,,3,,,Juan Camilo,LFQ ,DV 
+839,18-01-23,18-01-23,Madre Laura ,2500 GR,,5,,,Swiss Bakery,LFQ ,DV 
+840,18-01-23,18-01-23,Madre Laura ,2500 GR,,2,,,Brandex Global ,LFQ ,DV 
+853,23-01-23,23-01-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV 
+856,23-01-23,23-01-23,Madre Laura ,2500 GR,,2,,,Brandex Global ,LFQ ,DV 
+855,23-01-23,23-01-23,Madre Laura ,340 GR ,,23,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Madre Laura ,340 GR ,,13,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Madre Laura ,2500 GR ,,6,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Madre Laura Natural ,340 GR ,,22,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Gesha Honey ,340 GR ,,17,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Doña Dolly,340 GR ,,17,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Madre Laura Natural ,2300 GR ,,1,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Gesha Honey ,2300 GR ,,1,,,ECC ,LFQ ,DV 
+855,23-01-23,23-01-23,Doña Dolly,1200 GR ,,1,,,ECC ,LFQ ,DV 
+858,23-01-23,23-01-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+859,23-01-23,23-01-23,Madre Laura ,340 GR ,,2,,,ECC ,LFQ ,DV
+862,29-01-23,29-01-23,Madre Laura ,340 GR ,,4,,,Sergio Muñoz ,LFQ ,DV
+857,29-01-23,29-01-23,Madre Laura ,2500 GR,,6,,,Raul - Barranquilla ,LFQ ,DV
+863,29-01-23,29-01-23,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez ,LFQ ,DV
+861,29-01-23,29-01-23,Madre Laura ,340 GR ,,10,,,Daniel Velasquez ,LFQ ,DV
+865,23-01-23,23-01-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+864,23-01-23,23-01-23,Madre Laura ,340 GR ,,3,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Madre Laura ,340 GR ,,3,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Madre Laura ,2500 GR,,2,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Madre Laura Natural ,1000 GR,,1,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV
+868,3-2-23,3-2-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+866,4-2-23,4-2-23,Madre Laura ,2500 GR,,36,,,Epoca ,LFQ ,DV
+866,4-2-23,4-2-23,Tabi Natural,2500 GR ,,4,,,Epoca ,LFQ ,DV
+870,4-2-23,4-2-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+871,4-2-23,4-2-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+874,27-01-23,27-01-23,Madre Laura ,2500 GR ,,3,,,Monkey Group,LFQ ,DV
+874,4-2-23,4-2-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+872,7-2-23,7-2-23,Madre Laura ,2500 GR ,,12,,,Epoca ,LFQ ,DV
+873,7-2-23,7-2-23,Madre Laura ,340 GR ,,3,,,ECC ,LFQ ,DV
+873,7-2-23,7-2-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+873,7-2-23,7-2-23,Doña Dolly,1000 GR ,,1,,,ECC ,LFQ ,DV
+878,7-2-23,7-2-23,Madre Laura ,340 GR ,,3,,,ECC ,LFQ ,DV
+880,10-2-23,10-2-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo,LFQ ,DV
+879,27-1-23,27-1-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery,LFQ ,DV
+881,9-2-23,9-2-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+884,9-2-23,9-2-23,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+883,4-2-23,4-3-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+883,4-2-23,4-3-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+883,4-2-23,4-3-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+883,4-2-23,4-3-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+883,4-2-23,4-3-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+883,4-2-23,4-3-23,Madre Laura Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV
+885,4-2-23,4-3-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+888,4-2-23,4-2-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+887,17-2-23,17-2-23,Madre Laura ,500 GR ,,10,,,Daniel Velasquez ,LFQ ,DV
+886,4-2-23,4-2-23,Madre Laura ,2500 GR ,,1,,,Brandex Global ,LFQ ,DV
+889,17-02-23,17-02-23,Madre Laura ,2500 GR ,,40,,,Epoca ,LFQ ,DV
+889,17-02-23,17-02-23,Tabi Natural,2500 GR ,,4,,,Epoca ,LFQ ,DV
+890,16-02-23,16-02-23,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+890,16-02-23,16-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+890,16-02-23,16-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+890,16-02-23,16-02-23,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+890,16-02-23,16-02-23,Doña Dolly,340 GR,,5,,,ECC ,LFQ ,DV
+890,16-02-23,16-02-23,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+890,18-02-23,18-02-23,Madre Laura ,340 GR ,,6,,,ECC ,LFQ ,DV
+891,18-02-23,18-02-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+892,20-02-23,20-02-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+893,20-02-23,20-02-23,Madre Laura ,340 GR ,,6,,,Coorp. de Plasticos ,LFQ ,DV
+894,20-02-23,20-02-23,Madre Laura ,2500 GR ,,6,,,Raul - Barranquilla ,LFQ ,DV
+895,20-02-23,20-02-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+896,20-02-23,20-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+897,20-02-23,20-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+898,20-02-23,20-02-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery,LFQ ,DV
+900,20-02-23,20-02-23,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+901,20-02-23,20-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+901,20-02-23,20-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+901,20-02-23,20-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+902,20-02-23,20-02-23,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+903,20-02-23,20-02-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo,LFQ ,DV
+904,20-02-23,20-02-23,Madre Laura ,2500 GR ,,12,,,Epoca ,LFQ ,DV
+905,20-02-23,20-02-23,Madre Laura Natural ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+911,20-02-23,20-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+911,20-02-23,20-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+911,20-02-23,20-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+911,20-02-23,20-02-23,Madre Laura ,340 GR ,,3,,,ECC ,LFQ ,DV
+910,20-02-23,20-02-23,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+912,27-02-23,27-02-23,Tabi ,2500 GR ,,12,,,Epoca ,LFQ ,DV
+912,27-02-23,27-02-23,Madre Laura ,2500 GR ,,52,,,Epoca ,LFQ ,DV
+913,27-02-23,27-02-23,Gesha Honey ,340 GR,,1,,,Carlos Marin ,LFQ ,DV
+913,27-02-23,27-02-23,Madre Laura Natural ,340 GR ,,1,,,Carlos Marin ,LFQ ,DV
+914,27-02-23,27-02-23,Madre Laura ,2500 GR ,,6,,,Monkey Group ,LFQ ,DV
+915,27-02-23,27-02-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+916,27-02-23,27-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+916,27-02-23,27-02-23,Madre Laura Natural ,1000 GR,,1,,,ECC ,LFQ ,DV
+917,27-02-23,27-02-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery,LFQ ,DV
+919,27-02-23,27-02-23,Madre Laura ,2500 GR ,,1,,,Brandex Global ,LFQ ,DV
+921,27-02-23,27-02-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+922,27-02-23,27-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+922,27-02-23,27-02-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+922,27-02-23,27-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+935,27-02-23,27-02-23,Madre Laura ,2500 GR ,,3,,,Daniel Velasquez ,LFQ ,DV
+924,4-3-23,4-3-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo ,LFQ ,DV
+933,27-02-23,27-02-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+958,4-3-23,4-3-23,Madre Laura ,2500 GR ,,1,,,Brandex ,LFQ ,DV 
+934,27-02-23,27-02-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV 
+934,27-02-23,27-02-23,Madre Laura ,340 GR ,,2,,,ECC ,LFQ ,DV
+923,27-02-23,27-02-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+923,27-02-23,27-02-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+923,27-02-23,27-02-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+923,27-02-23,27-02-23,Madre Laura Natural ,340 GR ,,5,,,ECC ,LFQ ,DV
+923,27-02-23,27-02-23,Madre Laura ,340 GR ,,2,,,ECC ,LFQ ,DV
+937,4-3-23,4-3-23,Madre Laura ,2500 GR ,,5,,,Swiss Bakery,LFQ ,DV
+938,4-3-23,4-3-23,Madre Laura ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+938,4-3-23,4-3-23,Gesha Honey ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+938,4-3-23,4-3-23,Doña Dolly,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+938,4-3-23,4-3-23,Madre Laura Natural ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+936,8-3-23,8-3-23,Madre Laura ,100 GR ,,45,,,Bancolombia ,LFQ ,DV
+939,9-3-23,9-3-23,Madre Laura ,340 GR ,,2,,,ECC ,LFQ ,DV
+939,9-3-23,9-3-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV
+939,9-3-23,9-3-23,Doña Dolly,340 GR,,5,,,ECC ,LFQ ,DV
+939,9-3-23,9-3-23,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+939,9-3-23,9-3-23,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+941,9-3-23,9-3-23,Madre Laura ,340 GR ,,2,,,ECC ,LFQ ,DV
+941,9-3-23,9-3-23,Gesha Honey ,1000 GR,,1,,,ECC ,LFQ ,DV
+941,9-3-23,9-3-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV
+941,9-3-23,9-3-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+941,9-3-23,9-3-23,Madre Laura Natural ,1000 GR,,1,,,ECC ,LFQ ,DV
+940,9-3-23,9-3-23,Madre Laura ,2500 GR ,,6,,,Raul Barranquilla ,LFQ ,DV
+942,9-3-23,9-3-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+944,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+946,9-3-23,9-3-23,Madre Laura ,2500 GR,,12,,,Epoca ,LFQ ,DV
+945,9-3-23,9-3-23,Madre Laura ,2500 GR,,44,,,Epoca ,LFQ ,DV
+945,9-3-23,9-3-23,Pink Bourbon Honey ,2500 GR ,,20,,,Epoca ,LFQ ,DV
+947,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,Dupla,LFQ ,DV
+948,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,ECC ,LFQ ,DV
+948,9-3-23,9-3-23,Madre Laura ,340 GR,,3,,,ECC ,LFQ ,DV
+948,9-3-23,9-3-23,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+948,9-3-23,9-3-23,Madre Laura ,340 GR,,3,,,ECC ,LFQ ,DV
+951,9-3-23,9-3-23,Madre Laura ,2500 GR,,4,,,Swiss Bakery,LFQ ,DV
+950,9-3-23,9-3-23,Madre Laura ,340 GR,,2,,,Monkey ,LFQ ,DV
+949,9-3-23,9-3-23,Madre Laura ,340 GR,,3,,,ECC ,LFQ ,DV
+952,9-3-23,9-3-23,Madre Laura ,2500 GR,,2,,,ECC ,LFQ ,DV
+952,9-3-23,9-3-23,Madre Laura ,340 GR,,3,,,ECC ,LFQ ,DV
+952,9-3-23,9-3-23,Madre Laura ,340 GR,,10,,,ECC ,LFQ ,DV
+952,9-3-23,9-3-23,Madre Laura Natural ,340 GR,,10,,,ECC ,LFQ ,DV
+952,9-3-23,9-3-23,Gesha Honey ,340 GR,,10,,,ECC ,LFQ ,DV
+955,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,Brandex,LFQ ,DV
+957,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,Maria Jaramillo,LFQ ,DV
+959,9-3-23,9-3-23,Madre Laura ,340 GR,,2,,,Monkey ,LFQ ,DV
+960,9-3-23,9-3-23,Madre Laura ,340 GR,,2,,,Monkey ,LFQ ,DV
+961,9-3-23,9-3-23,Madre Laura ,2500 GR,,1,,,Juan Pablo Perez ,LFQ ,DV
+962,9-3-23,9-3-23,Madre Laura ,2500GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+963,9-3-23,9-3-23,Madre Laura ,340 GR,,4,,,ECC ,LFQ ,DV
+964,9-3-23,9-3-23,Gesha Honey ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+964,9-3-23,9-3-23,Madre Laura ,340 GR,,7,,,Daniel Velasquez ,LFQ ,DV
+964,9-3-23,9-3-23,Doña Dolly,340 GR,,2,,,Daniel Velasquez ,LFQ ,DV
+965,9-3-23,9-3-23,Madre Laura ,2500GR,,3,,,Juan Camilo Baez ,LFQ ,DV
+966,25-3-23,25-3-23,Madre Laura ,2500 GR,,52,,,Epoca ,LFQ ,DV
+966,25-3-23,25-3-23,Madre Laura Natural ,2500GR,,16,,,Epoca ,LFQ ,DV
+971,9-3-23,9-3-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+971,9-3-23,9-3-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV
+971,9-3-23,9-3-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+971,9-3-23,9-3-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV
+971,9-3-23,9-3-23,Madre Laura Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV
+971,9-3-23,9-3-23,Madre Laura ,340 GR ,,4,,,ECC ,LFQ ,DV
+972,31-3-23,31-3-23,Madre Laura ,340 GR ,,20,,,Daniel Velasquez ,LFQ ,DV
+973,9-3-23,9-3-23,Madre Laura ,2500 GR ,,2,,,Swiss Bakery,LFQ ,DV
+974,9-3-23,9-3-23,Madre Laura ,2500 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+976,28-3-23,28-3-23,Wush Wush Natural,340 GR ,,5,,,ECC ,LFQ ,DV
+976,28-3-23,28-3-23,Madre Laura ,340 GR ,,6,,,ECC ,LFQ ,DV
+980,1-4-23,1-4-23,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+975,9-3-23,9-3-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery,LFQ ,DV
+977,28-3-23,28-3-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+979,28-3-23,28-3-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV 
+981,2-4-23,2-4-23,Madre Laura ,2500 GR ,,14,,,Felipe Peña ,LFQ ,DV 
+978,2-4-23,2-4-23,Madre Laura ,340 GR ,,3,,,ECC,LFQ ,DV 
+978,2-4-23,2-4-23,Doña Dolly,340 GR ,,10,,,ECC,LFQ ,DV 
+978,2-4-23,2-4-23,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV 
+978,2-4-23,2-4-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV 
+978,2-4-23,2-4-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV 
+984,2-4-23,2-4-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery,LFQ ,DV
+983,2-4-23,2-4-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+986,2-4-23,2-4-23,Madre Laura ,2500 GR ,,3,,,Juan Camilo Baez ,LFQ ,DV
+981,2-4-23,2-4-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+982,2-4-23,2-4-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+982,2-4-23,2-4-23,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+982,2-4-23,2-4-23,Doña Dolly,340 GR ,,5,,,ECC,LFQ ,DV
+982,2-4-23,2-4-23,Madre Laura ,340 GR ,,5,,,ECC,LFQ ,DV
+982,2-4-23,2-4-23,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+982,2-4-23,2-4-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+985,2-4-23,2-4-23,Madre Laura ,2500 GR ,,12,,,Epoca ,LFQ ,DV
+988,2-4-23,2-4-23,Madre Laura ,2500 GR ,,36,,,Epoca ,LFQ ,DV
+987,2-4-23,2-4-23,Madre Laura ,2500 GR ,,4,,,Daniel Herrera ,LFQ ,DV
+994,2-4-23,2-4-23,Madre Laura ,340 GR ,,5,,,Monkey Group,LFQ ,DV
+995,2-4-23,2-4-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+996,8-4-23,8-4-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Madre Laura Natural ,340 GR ,,10,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Madre Laura ,340 GR ,,10,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Don Felix ,340 GR ,,10,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Doña Dolly,340 GR ,,5,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Gesha Honey ,340 GR ,,10,,,ECC ,LFQ ,DV
+996,8-4-23,8-4-23,Madre Laura ,340 GR ,,6,,,ECC ,LFQ ,DV
+997,8-4-23,8-4-23,Madre Laura ,2500 GR ,,28,,,Epoca ,LFQ ,DV
+998,8-4-23,8-4-23,Madre Laura ,2500 GR ,,1,,,Dupla,LFQ ,DV
+999,8-4-23,8-4-23,Madre Laura ,2500 GR ,,2,,,Laura Torres ,LFQ ,DV
+1000,8-4-23,8-4-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1001,8-4-23,8-4-23,Madre Laura ,2500 GR ,,1,,,Nancy Cardona ,LFQ ,DV
+1002,8-4-23,8-4-23,Tabi Natural,2500 GR ,,12,,,Epoca ,LFQ ,DV
+1007,8-4-23,8-4-23,Wush Wush Natural,340 GR ,,5,,,ECC,LFQ ,DV
+1007,8-4-23,8-4-23,Madre Laura Descafeinado,340 GR ,,5,,,ECC,LFQ ,DV
+1011,8-4-23,8-4-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery ,LFQ ,DV
+1012,8-4-23,8-4-23,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+1029,8-4-23,8-4-23,Madre Laura ,500 GR ,,5,,,Daniel Velasquez ,LFQ ,DV
+1013,14-4-23,14-4-23,Madre Laura ,340 GR ,,11,,,ECC,LFQ ,DV
+1013,14-4-23,14-4-23,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1013,14-4-23,14-4-23,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+1013,14-4-23,14-4-23,Madre Laura ,2500 GR,,2,,,ECC,LFQ ,DV
+1014,14-4-23,14-4-23,Madre Laura ,2500 GR,,1,,,Brandex ,LFQ ,DV
+1015,14-4-23,14-4-23,Madre Laura ,2500 GR,,4,,,Raul - Barranquilla ,LFQ ,DV
+1016,14-4-23,14-4-23,Madre Laura ,2500 GR,,1,,,Staff Juridico ,LFQ ,DV
+1017,14-4-23,14-4-23,Wush Wush Natural,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1019,14-4-23,14-4-23,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez ,LFQ ,DV
+1020,14-4-23,14-4-23,Wush Wush Natural,340 GR ,,4,,,ECC ,LFQ ,DV
+1022,14-4-23,14-4-23,Madre Laura ,2500 GR,,4,,,Swiss Bakery ,LFQ ,DV
+1023,14-4-23,14-4-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1025,14-4-23,14-4-23,Madre Laura ,2500 GR,,1,,,AM Aire ,LFQ ,DV
+1033,24-4-23,24-4-23,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1028,24-4-23,24-4-23,Madre Laura ,2500 GR ,,4,,,Daniel Herrera ,LFQ ,DV
+1032,24-4-23,24-4-23,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+1026,24-4-23,24-4-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Madre Laura ,340 GR ,,5,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Don Felix ,340 GR ,,5,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Wush Wush Natural,1000 GR ,,1,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Don Felix ,1000 GR ,,1,,,ECC,LFQ ,DV
+1026,24-4-23,24-4-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV
+1031,24-4-23,24-4-23,Tabi Natural,2500 GR ,,8,,,Epoca ,LFQ ,DV
+1031,24-4-23,24-4-23,Madre Laura ,2500 GR ,,64,,,Epoca ,LFQ ,DV
+1035,24-4-23,24-4-23,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+1036,24-4-23,24-4-23,Madre Laura ,340 GR ,,1,,,Bibiana Urrego ,LFQ ,DV
+1037,24-4-23,24-4-23,Madre Laura ,2500 GR ,,4,,,Swiss Bakery ,LFQ ,DV
+1038,24-4-23,24-4-23,Madre Laura,2500 GR ,,1,,,ECC ,LFQ ,DV
+1038,24-4-23,24-4-23,Madre Laura ,340 GR ,,18,,,ECC ,LFQ ,DV
+1038,24-4-23,24-4-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV
+1038,24-4-23,24-4-23,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+1038,24-4-23,24-4-23,Don Felix ,340 GR,,5,,,ECC ,LFQ ,DV
+1040,24-4-23,24-4-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1039,24-4-23,24-4-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1041,24-4-23,24-4-23,Madre Laura ,2500 GR ,,2,,,Juan Camilo ,LFQ ,DV
+1043,24-4-23,24-4-23,Madre Laura ,2500 GR ,,1,,,Maria Jaramillo,LFQ ,DV
+1066,24-4-23,24-4-23,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1044,24-4-23,24-4-23,Madre Laura ,2500 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1067,24-4-23,24-4-23,Madre Laura ,340 GR ,,18,,,ECC,LFQ ,DV
+1067,24-4-23,24-4-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV
+1067,24-4-23,24-4-23,Madre Laura Natural ,340 GR,,10,,,ECC,LFQ ,DV
+1067,24-4-23,24-4-23,Don Felix ,340 GR,,10,,,ECC,LFQ ,DV
+1067,24-4-23,24-4-23,Madre Laura,2500 GR ,,1,,,ECC,LFQ ,DV
+1067,24-4-23,24-4-23,Madre Laura Natural ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1056,24-4-23,24-4-23,Madre Laura,2500 GR ,,2,,,Raul Barranquilla ,LFQ ,DV
+1054,24-4-23,24-4-23,Madre Laura,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1053,24-4-23,24-4-23,Madre Laura,2500 GR ,,1,,,Akio ,LFQ ,DV
+1052,24-4-23,24-4-23,Madre Laura,2500 GR,,5,,,Raul Barranquilla ,LFQ ,DV
+1049,24-4-23,24-4-23,Madre Laura,2500 GR,,60,,,Epoca ,LFQ ,DV
+1049,24-4-23,24-4-23,Tabi Natural,2500 GR,,12,,,Epoca ,LFQ ,DV
+1051,14-5-23,14-5-23,Madre Laura ,340 GR ,,10,,,Color Cacao,LFQ ,DV
+N/A,14-5-23,14-5-23,Madre Laura ,340 GR ,,10,,,Daniel Velasquez ,LFQ ,DV
+1047,14-5-23,14-5-23,Madre Laura ,2500 GR ,,1,,,Staff Juridico ,LFQ ,DV
+1046,14-5-23,14-5-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+1045,14-5-23,14-5-23,Madre Laura ,500 GR ,,1,,,Alambique ,LFQ ,DV
+1048,14-5-23,14-5-23,Madre Laura,2500 GR ,,2,,,ECC ,LFQ ,DV
+1048,14-5-23,14-5-23,Madre Laura ,340 GR ,,24,,,ECC ,LFQ ,DV
+1048,14-5-23,14-5-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV
+1048,14-5-23,14-5-23,Madre Laura Natural ,340 GR,,10,,,ECC ,LFQ ,DV
+1048,14-5-23,14-5-23,Don Felix ,340 GR,,5,,,ECC ,LFQ ,DV
+1050,14-5-23,14-5-23,Madre Laura ,340 GR ,,1,,,Monkey group,LFQ ,DV
+1055,14-5-23,14-5-23,Madre Laura,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1064,14-5-23,14-5-23,Madre Laura,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1062,14-5-23,14-5-23,Gesha Honey ,2000 GR ,,1,,,Adrian Ruiz ,LFQ ,DV 
+1060,14-5-23,14-5-23,Madre Laura,2500 GR ,,2,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Madre Laura ,340 GR ,,24,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Madre Laura Natural ,340 GR,,10,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Don Felix ,340 GR,,5,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Madre Laura Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1060,14-5-23,14-5-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1057,14-5-23,14-5-23,Madre Laura,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV 
+1059,14-5-23,14-5-23,Madre Laura,2500 GR,,3,,,Juan Camilo ,LFQ ,DV 
+1058,14-5-23,14-5-23,Madre Laura,2500 GR,,1,,,Brandex,LFQ ,DV 
+1068,14-5-23,14-5-23,Madre Laura,2500 GR ,,2,,,Nancy Cardona ,LFQ ,DV 
+1066,14-5-23,14-5-23,Madre Laura Natural ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV 
+1062,14-5-23,14-5-23,Madre Laura ,340 GR ,,3,,,Monkey group,LFQ ,DV
+1069,24-5-23,24-5-23,Madre Laura,2500 GR ,,1,,,Monsiure Burger ,LFQ ,DV
+1070,24-5-23,24-5-23,Madre Laura,2500 GR ,,1,,,Akio ,LFQ ,DV
+1086,24-5-23,24-5-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Don Felix ,340 GR,,10,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Gesha Honey ,340 GR,,10,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Madre Laura Descafeinado,340 GR,,5,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Madre Laura ,340 GR,,18,,,ECC,LFQ ,DV
+1086,24-5-23,24-5-23,Wush Wush Natural,340 GR,,2,,,ECC,LFQ ,DV
+1087,24-5-23,24-5-23,Madre Laura ,340 GR,,2,,,Monkey Group,LFQ ,DV
+1088,24-5-23,24-5-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1091,24-5-23,24-5-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1093,31-5-23,31-5-23,Madre Laura ,2500 GR ,,60,,,Epoca ,LFQ ,DV
+1096,31-5-23,31-5-23,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1095,2-6-23,2-6-23,Madre Laura ,2500 GR,,2,,,Staff Juridico ,LFQ ,DV
+1099,2-6-23,2-6-23,Madre Laura ,2500 GR,,2,,,Nancy Cardona ,LFQ ,DV
+1101,2-6-23,2-6-23,Madre Laura ,2500 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1102,2-6-23,2-6-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1112,2-6-23,2-6-23,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+1106,2-6-23,2-6-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1105,2-6-23,2-6-23,Madre Laura ,2500 GR ,,2,,,Juan Camilo Baez ,LFQ ,DV
+1107,13-6-23,13-6-23,Wush Wush Natural,340 GR ,,5,,,ECC ,LFQ ,DV
+1111,13-6-23,13-6-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1114,13-6-23,13-6-23,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+1115,13-6-23,13-6-23,Madre Laura ,340 GR ,,10,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Madre Laura Natural ,340 GR ,,10,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Doña Dolly ,2500 GR ,,2,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Don Felix ,340 GR ,,5,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Gesha Honey ,340 GR ,,5,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Madre Laura Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1115,13-6-23,13-6-23,Madre Laura ,340 GR ,,9,,,ECC ,LFQ ,DV
+1116,13-6-23,13-6-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1126,13-6-23,13-6-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1127,13-6-23,13-6-23,Madre Laura ,2500 GR ,,2,,,Nancy Cardona ,LFQ ,DV
+1128,22-6-23,22-6-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1132,22-6-23,22-6-23,Madre Laura ,2500 GR,,3,,,Daniel Herrera ,LFQ ,DV
+1133,22-6-23,22-6-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1134,22-6-23,22-6-23,Madre Laura ,2500 GR,,1,,,Santiago Angel ,LFQ ,DV
+1141,22-6-23,22-6-23,Madre Laura ,2500 GR,,3,,,Juan Camilo Baez ,LFQ ,DV
+1135,22-6-23,22-6-23,Madre Laura ,340 GR ,,5,,,ECC,LFQ ,DV
+1135,22-6-23,22-6-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1135,22-6-23,22-6-23,Doña Dolly ,2500 GR ,,3,,,ECC,LFQ ,DV
+1135,22-6-23,22-6-23,Don Felix ,340 GR ,,5,,,ECC,LFQ ,DV
+1135,22-6-23,22-6-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV
+1135,22-6-23,22-6-23,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1137,22-6-23,22-6-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1136,22-6-23,22-6-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1144,22-6-23,22-6-23,Madre Laura ,2500 GR ,,40,,,Epoca ,LFQ ,DV
+1144,22-6-23,22-6-23,Tabi Natural,2500 GR ,,20,,,Epoca ,LFQ ,DV
+1145,22-6-23,22-6-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1157,22-6-23,22-6-23,Madre Laura ,2500 GR ,,6,,,Raul - Barranquilla ,LFQ ,DV 
+1152,22-6-23,22-6-23,Madre Laura ,2500 GR ,,1,,,Brandex ,LFQ ,DV 
+1152,22-6-23,22-6-23,Madre Laura ,340 GR ,,9,,,ECC,LFQ ,DV 
+1152,22-6-23,22-6-23,Doña Dolly ,2500 GR ,,2,,,ECC,LFQ ,DV 
+1152,22-6-23,22-6-23,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV 
+1152,22-6-23,22-6-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV 
+1152,22-6-23,22-6-23,Don Felix ,340 GR ,,5,,,ECC,LFQ ,DV 
+1159,22-6-23,22-6-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV 
+1165,22-6-23,22-6-23,Madre Laura ,2500 GR ,,6,,,Raul - Barranquilla ,LFQ ,DV 
+1164,22-6-23,22-6-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV 
+1166,1-7-23,1-7-23,Madre Laura ,2500 GR,,2,,,Nancy Cardona ,LFQ ,DV 
+1163,1-7-23,1-7-23,Madre Laura ,2500 GR,,4,,,Monkey Group,LFQ ,DV 
+1163,1-7-23,1-7-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV 
+1167,1-7-23,1-7-23,Madre Laura Natural ,340 GR ,,3,,,Daniel Velasquez ,LFQ ,DV 
+1167,1-7-23,1-7-23,Gesha Honey ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV 
+1167,1-7-23,1-7-23,Don Felix ,340 GR ,,3,,,Daniel Velasquez ,LFQ ,DV 
+1167,1-7-23,1-7-23,Madre Laura ,340 GR,,2,,,Daniel Velasquez ,LFQ ,DV 
+1168,1-7-23,1-7-23,Madre Laura ,2500 GR,,5,,,Swiss Factory ,LFQ ,DV 
+1169,1-7-23,1-7-23,Madre Laura ,340 GR ,,13,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Madre Laura Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Gesha Honey ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Don Felix ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Don José Bourbon Rosado Natural ,1000 GR ,,1,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Gesha Honey ,340 GR ,,10,,,ECC ,LFQ ,DV 
+1169,1-7-23,1-7-23,Don Felix ,340 GR ,,10,,,ECC ,LFQ ,DV 
+1171,1-7-23,1-7-23,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+1173,1-7-23,1-7-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1174,13-7-23,13-7-23,Madre Laura ,2500 GR,,20,,,Epoca ,LFQ ,DV
+1175,13-7-23,13-7-23,Gesha Honey ,340 GR ,,10,,,ECC ,LFQ ,DV
+1175,13-7-23,13-7-23,Don Felix ,340 GR ,,10,,,ECC ,LFQ ,DV
+1175,13-7-23,13-7-23,Madre Laura ,340 GR,,18,,,ECC ,LFQ ,DV
+1175,13-7-23,13-7-23,Madre Laura Natural ,340 GR,,10,,,ECC ,LFQ ,DV
+1175,13-7-23,13-7-23,Doña Dolly,2500 GR ,,2,,,ECC ,LFQ ,DV
+1176,13-7-23,13-7-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1180,13-7-23,13-7-23,Madre Laura ,2500 GR,,4,,,EMCA Juridico ,LFQ ,DV
+1181,13-7-23,13-7-23,Madre Laura ,340 GR,,2,,,Monkey Group,LFQ ,DV
+1182,13-7-23,13-7-23,Madre Laura ,2500 GR,,6,,,Raul - Barranquilla ,LFQ ,DV
+1183,13-7-23,13-7-23,Madre Laura ,2500 GR,,2,,,Nancy Cardona ,LFQ ,DV
+1186,19-7-23,19-7-23,Madre Laura ,2500 GR,,30,,,Epoca ,LFQ ,DV
+1188,19-7-23,19-7-23,Don Felix ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1188,19-7-23,19-7-23,Madre Laura Natural ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1189,19-7-23,19-7-23,Madre Laura ,340 GR,,5,,,Daniel Velasquez ,LFQ ,DV
+1189,19-7-23,19-7-23,Don Felix ,340 GR,,5,,,Daniel Velasquez ,LFQ ,DV
+1190,19-7-23,19-7-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Don Felix ,340 GR ,,5,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Madre Laura ,340 GR,,18,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Doña Dolly ,2500 GR ,,2,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Gesha Honey ,1000 GR ,,1,,,ECC,LFQ ,DV
+1190,19-7-23,19-7-23,Madre Laura Natural ,1000 GR ,,1,,,ECC,LFQ ,DV
+1191,19-7-23,19-7-23,Madre Laura ,2500 GR,,30,,,Epoca ,LFQ ,DV
+1192,19-7-23,19-7-23,Madre Laura ,2500 GR,,6,,,Sweet Bakery ,LFQ ,DV
+1197,19-7-23,19-7-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1198,19-7-23,19-7-23,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+1200,19-7-23,19-7-23,Madre Laura ,2500 GR,,4,,,Raul - Barranquilla ,LFQ ,DV
+1199,19-7-23,19-7-23,Madre Laura Natural ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1202,19-7-23,19-7-23,Madre Laura ,"340 GR 	",,13,,,ECC,LFQ ,DV
+1202,19-7-23,19-7-23,Doña Dolly ,2500 GR ,,2,,,ECC,LFQ ,DV
+1202,19-7-23,19-7-23,Don Felix ,"340 GR 	",,5,,,ECC,LFQ ,DV
+1202,19-7-23,19-7-23,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+1202,19-7-23,19-7-23,Pink Bourbon Natural,1000 GR ,,1,,,ECC,LFQ ,DV
+1202,19-7-23,19-7-23,Don Felix ,1000 GR ,,1,,,ECC,LFQ ,DV
+1206,19-7-23,19-7-23,Madre Laura ,2500 GR,,1,,,Daniel Herrera ,LFQ ,DV
+1204,19-7-23,19-7-23,Madre Laura ,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+1207,31-7-23,30-7-23,Madre Laura Descafeinado,340 GR ,,5,,,ECC ,LFQ ,DV
+1207,31-7-23,30-7-23,Wush Wush Natural,340 GR ,,5,,,ECC ,LFQ ,DV 
+1209,19-7-23,19-7-23,Madre Laura ,2500 GR ,,1,,,Maria Jaramillo,LFQ ,DV
+1211,31-7-23,31-7-23,Madre Laura ,2500 GR ,,1,,,Nancy Cardona ,LFQ ,DV 
+1227,25-7-23,25-7-23,Madre Laura ,2500 GR ,,6,,,Raul - Barranquilla ,LFQ ,DV
+1225,25-7-23,25-7-23,Madre Laura ,2500 GR,,1,,,Laitania ,LFQ ,DV
+1231,2-8-23,2-8-23,Madre Laura ,2500 GR,,64,,,Epoca ,LFQ ,DV
+1231,2-8-23,2-8-23,Tabi Natural,2500 GR ,,20,,,Epoca ,LFQ ,DV
+1230,28-7-23,28-7-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+1230,28-7-23,28-7-23,Madre Laura ,340 GR ,,18,,,ECC,LFQ ,DV
+1230,28-7-23,28-7-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1230,28-7-23,28-7-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+1230,28-7-23,28-7-23,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+1228,28-7-23,28-7-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1238,28-7-23,28-7-23,Madre Laura ,2500 GR,,1,,,Laitania ,LFQ ,DV
+1237,28-7-23,28-7-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+1234,28-7-23,28-7-23,Madre Laura ,2500 GR ,,1,,,Brandex ,LFQ ,DV
+1235,2-8-23,2-8-23,Madre Laura ,340 GR ,,4,,,Monkey Group,LFQ ,DV
+1233,2-8-23,2-8-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1233,2-8-23,2-8-23,Madre Laura ,340 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1232,2-8-23,2-8-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Madre Laura ,340 GR ,,18,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Madre Laura Natural ,1000 GR ,,1,,,ECC,LFQ ,DV
+1232,2-8-23,2-8-23,Gesha Honey ,1000 GR ,,1,,,ECC,LFQ ,DV
+1240,2-8-23,2-8-23,Madre Laura ,2500 GR ,,1,,,AKIO ,LFQ ,DV
+,10-8-23,10-8-23,Wush Wush Natural,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+,10-8-23,10-8-23,Madre Laura Natural ,340 G$ ,,2,,,Daniel Velasquez ,LFQ ,DV
+,10-8-23,10-8-23,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+1259,10-8-23,10-8-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1266,14-8-23 ,14-8-23,Madre Laura ,2500 GR ,,3,,,Raul - Barranquilla ,LFQ ,DV
+,14-8-23 ,14-8-23,Madre Laura ,340 GR,,10,,,Daniel Velasquez ,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,340 GR ,,6,,,ECC,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,340 GR ,,5,,,ECC,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+,14-8-23,14-8-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+,14-8-23,14-8-23,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,2500 GR ,,2,,,Nancy Cardona ,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+,14-8-23,14-8-23,Madre Laura ,2500 GR ,,5,,,Sweet Bakery ,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura ,340 GR ,,16,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Wush Wush Natural,340 GR ,,5,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Don José Bourbon Rosado Natural ,1000 GR ,,1,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura Natural ,1000 Gr ,,1,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Gesha Honey ,1000 GR ,,1,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Don Felix ,1000 Gr ,,1,,,ECC,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura ,340 GR ,,10,,,Color Cacao,LFQ ,DV
+,23-8-23,23-8-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+,28-8-23,28-8-23,Madre Laura ,2500 GR ,,3,,,Raul - Barranquilla ,LFQ ,DV
+,28-8-23,28-8-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+,28-8-23,28-8-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+,28-8-23,28-8-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+,28-8-23,28-8-23,Tabi Natural,2500 GR ,,20,,,Epoca ,LFQ ,DV
+1270,29-8-23 ,29-8-23 ,Madre Laura ,2500 GR ,,3,,,Daniel Herrera ,LFQ ,DV
+,29-8-23 ,29-8-23 ,Madre Laura ,2500 GR ,,1,,,Woolgreen ,LFQ ,DV
+,29-8-23 ,29-8-23 ,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+,29-8-23 ,29-8-23 ,Madre Laura ,340 GR ,,18,,,ECC,LFQ ,DV
+,29-8-23 ,29-8-23 ,Madre Laura Natural ,340 GR ,,10,,,ECC ,LFQ ,DV
+,29-8-23 ,29-8-23 ,Don Felix ,340 GR,,5,,,ECC,LFQ ,DV
+,29-8-23,29-8-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+,29-8-23,29-8-23,Wush Wush Natural,1000 GR ,,1,,,ECC,LFQ ,DV
+,29-8-23,29-8-23,Madre Laura Natural ,1000 GR ,,1,,,ECC,LFQ ,DV
+,29-8-24,29-8-24,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+,30-8-23,30-8-23 ,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1286,4-9-23,4-9-23,Madre Laura ,2500 GR ,,4,,,Raul - Barranquilla ,LFQ ,DV
+1280,5-9-23,5-9-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1280,5-9-23,5-9-23,Madre Laura ,2500 GR ,,4,,,Monkey Group,LFQ ,DV
+,5-9-23,5-9-23,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1283,6-9-23,6-9-23,Madre Laura ,2500 GR ,,3,,,Daniel Herrera ,LFQ ,DV
+1282,6-9-23,6-9-23,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+1282,6-9-23,6-9-23,Madre Laura ,340 GR ,,25,,,ECC,LFQ ,DV
+1282,6-9-23,6-9-23,Madre Laura Natural ,340 GR ,,15,,,ECC,LFQ ,DV
+1282,6-9-23,6-9-23,Gesha Honey ,340 GR,,10,,,ECC,LFQ ,DV
+1282,6-9-23,6-9-23,Wush Wush Natural,340 GR ,,5,,,ECC,LFQ ,DV
+1282,6-9-23,6-9-23,Don Felix ,340 GR ,,15,,,ECC,LFQ ,DV
+1284,9-9-23,9-9-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1287,9-9-23,9-9-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1295,9-9-23,9-9-23,Madre Laura Natural ,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+1295,9-9-23,9-9-23,Gesha Honey ,340 GR,,1,,,Miguel Urrea ,LFQ ,DV
+1295,9-9-23,9-9-23,Wush Wush Natural,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+1295,9-9-23,9-9-23,Don Felix ,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+,9-9-23,9-9-23,Madre Laura ,2500 GR ,,2,,,Raul - Barranquilla ,LFQ ,DV
+N/A,12-9-23,12-9-23,Tabi Natural,2500 GR ,,8,,,Kofra ,LFQ ,DV
+N/A,12-9-23,12-9-23,Gesha Honey ,2500 GR,,8,,,Kofra ,LFQ ,DV
+N/A,12-9-23,12-9-23,Pink Bourbon Natural,2500 GR,,2,,,Kofra ,LFQ ,DV
+N/A,12-9-23,12-9-23,Don Victor - Maragogipe ,2500 GR,,6,,,Kofra ,LFQ ,DV
+,12-9-23,12-9-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1288,12-9-23,12-9-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1291,12-9-23,12-9-23,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+1293,12-9-23,12-9-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1292,13-9-23 ,13-9-23 ,Madre Laura ,2500 GR ,,1,,,Brandex ,LFQ ,DV
+1294,13-9-23 ,13-9-23 ,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+,13-9-23,13-9-23,Don Victor - Maragogipe ,340  GR ,,5,,,ECC ,LFQ ,DV
+,13-9-23,13-9-23,Madre Laura Descafeinado,340 GR ,,5,,,ECC ,LFQ ,DV
+,13-9-23,13-9-23,Wush Wush Natural,340 GR ,,5,,,ECC ,LFQ ,DV
+,13-9-23,13-9-23,Don Reinaldo ,340 GR ,,5,,,ECC ,LFQ ,DV
+,13-9-23,13-9-23,Madre Laura ,2500 GR ,,2,,,ECC ,LFQ ,DV
+,13-9-23,13-9-23,Madre Laura ,340 GR,,10,,,ECC ,LFQ ,DV
+1297,18-9-23 ,18-9-23 ,Madre Laura ,1000 GR ,,3,,,La Revuelta ,LFQ ,DV
+1297,18-9-23 ,18-9-23 ,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+,18-9-23,18-9-23,Madre Laura ,340 GR ,,5,,,Daniel Velasquez ,LFQ ,DV
+,18-9-23,18-9-23,Madre Laura Natural ,340 GR ,,5,,,Daniel Velasquez ,LFQ ,DV
+1301,20-9-23,20-9-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+,20-9-23 ,20-9-23,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+,20-9-23,20-9-23,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+,20-9-23,20-9-23,Gesha Honey ,340 GR ,,10,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Don Felix ,340 GR,,3,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Wush Wush Natural,340 GR,,5,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Don Reinaldo ,340 GR,,10,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Don Victor - Maragogipe ,340 GR,,5,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Gesha Natural,2500 GR ,,1,,,ECC ,LFQ ,DV
+,20-9-23,20-9-23,Madre Laura ,2500 GR ,,1,,,ECC ,LFQ ,DV
+1305,21-9-23 ,21-9-23 ,Madre Laura ,2500 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+,22-9-23 ,22-9-23 ,Madre Laura ,2500 GR ,,2,,,ECC,LFQ ,DV
+,22-9-23 ,22-9-23 ,Madre Laura ,340 GR ,,20,,,ECC,LFQ ,DV
+,22-9-23 ,22-9-23 ,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+,22-9-23,22-9-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV
+,22-9-23,22-9-23,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+,22-9-23,22-9-23,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+,22-9-23,22-9-23,Wush Wush Natural,1000 GR ,,1,,,ECC,LFQ ,DV
+,22-9-23,22-9-23,Don Victor - Maragogipe ,1000 GR ,,1,,,ECC,LFQ ,DV
+1308,22-9-23,22-9-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1307,22-9-23,22-9-23,Madre Laura ,2500 GR ,,1,,,Sergio Muñoz ,LFQ ,DV
+1306,22-9-23,22-9-23,Madre Laura ,2500 GR ,,3,,,Woolgrove ,LFQ ,DV
+1309,22-9-23,22-9-23,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+1316,27-9-23 ,27-9-23 ,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1317,27-9-23 ,27-9-23 ,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+1318,27-9-23 ,27-9-23 ,Madre Laura ,2500 GR ,,64,,,Epoca ,LFQ ,DV
+1319,27-9-23 ,27-9-23 ,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+1327,27-9-23 ,27-9-23 ,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1338,1-10-23,1-10-23,Madre Laura ,2500 GR ,,1,,,Juan Pablo Perez ,LFQ ,DV
+1361,1-10-23,1-10-23,Madre Laura,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1360,1-10-23,1-10-23,Madre Laura,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+1363,1-10-23,1-10-23,Madre Laura,340 GR ,,18,,,ECC,LFQ ,DV
+1363,1-10-23,1-10-23,Madre Laura,2500 GR,,2,,,ECC,LFQ ,DV
+1363,1-10-23,1-10-23,Madre Laura Natural ,340 GR ,,6,,,ECC,LFQ ,DV
+1363,1-10-23,1-10-23,Gesha Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+1363,1-10-23,1-10-23,Wush Wush Natural,340 GR ,,5,,,ECC,LFQ ,DV
+1363,1-10-23,1-10-23,Don Victor - Maragogipe ,340 GR ,,5,,,ECC,LFQ ,DV
+1362,1-10-23,1-10-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1364,1-10-23,1-10-23,Madre Laura ,1000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1364,1-10-23,1-10-23,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1365,1-10-23,1-10-23,Madre Laura ,2500 GR ,,2,,,Raul - Barranquilla ,LFQ ,DV
+1367,1-10-23,1-10-23,Madre Laura ,2500 GR ,,2,,,Raul - Barranquilla ,LFQ ,DV
+1375,11-10-23,11-10-23,Madre Laura ,340 GR,,2,,,Monkey Group,LFQ ,DV
+1378,11-10-23,11-10-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1377,17-10-23 ,17-10-23 ,Madre Laura ,1000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1384,17-10-23 ,17-10-23 ,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1386,17-10-23 ,17-10-23 ,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1363,12-10-23,12-10-23,Madre Laura ,340 GR ,,5,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Madre Laura Descafeinado,340 GR ,,2,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Don Reinaldo ,340 GR ,,5,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Gesha Natural,2500 GR ,,2,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Madre Laura ,340 GR ,,8,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Don Victor - Maragogipe ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1363,12-10-23,12-10-23,Don Reinaldo ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1385,17-10-23 ,17-10-23 ,Madre Laura ,340 GR ,,10,,,Collin Obrien ,LFQ ,DV
+1387,17-10-23 ,17-10-23 ,Madre Laura ,2500 GR ,,4,,,Woolgreen ,LFQ ,DV
+1387,17-10-23,17-10-23,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,1,,,Woolgreen ,LFQ ,DV
+1389,17-10-23,17-10-23,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+1392,17-10-23,17-10-23,Madre Laura ,2500 GR ,,2,,,Valentina Londoño ,LFQ ,DV
+1391,17-10-23,17-10-23,Gesha Natural,2500 GR ,,2,,,ECC,LFQ ,DV
+1391,17-10-23,17-10-23,Madre Laura ,340 GR ,,14,,,ECC,LFQ ,DV
+1391,17-10-23,17-10-23,Don Reinaldo ,340 GR ,,5,,,ECC,LFQ ,DV
+1393,17-10-23,17-10-23,Madre Laura ,1000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1395,17-10-23,17-10-23,Madre Laura ,1000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1406,17-10-23,17-10-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1408,17-10-23,17-10-23,Madre Laura ,2500 GR ,,3,,,Raul - Barranquilla ,LFQ ,DV
+1394,24-10-23,24-10-23,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1394,24-10-23,24-10-23,Gesha Natural,2500 GR ,,2,,,ECC,LFQ ,DV
+1394,24-10-23,24-10-23,Don Reinaldo ,340 GR ,,10,,,ECC,LFQ ,DV
+1394,24-10-23,24-10-23,Gesha Honey ,340 GR ,,10,,,ECC,LFQ ,DV
+1394,24-10-23,24-10-23,Don Victor - Maragogipe ,340 GR ,,10,,,ECC,LFQ ,DV
+1394,24-10-23,24-10-23,wush Wush Natural,340 GR ,,3,,,ECC,LFQ ,DV
+1409,17-10-23,17-10-23,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+1415,24-10-23,24-10-23,Madre Laura ,340 GR ,,16,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Gesha Honey ,340 GR,,10,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Don Reinaldo ,340 GR,,5,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23,Gesha Natural,2500 GR ,,2,,,ECC,LFQ ,DV
+1415,24-10-23,24-10-23 ,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1418,24-10-23,24-10-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1419,24-10-23,24-10-23,Don Rafael- Pink Bourbon Lavado ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1419,24-10-23,24-10-23 ,Gesha Honey ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1421,24-10-23,24-10-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1420,24-10-23,24-10-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1423,24-10-23,24-10-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1424,24-10-23,24-10-23,Madre Laura ,2500 GR,,4,,,Raul - Barranquilla ,LFQ ,DV
+1425,24-10-23,24-10-23,Madre Laura ,2500 GR,,5,,,Woolgrove ,LFQ ,DV
+1425,6-11-23,6-11-23,Don Rafael- Pink Bourbon Lavado ,2500 GR,,1,,,Woolgrove ,LFQ ,DV
+1435,6-11-23,6-11-23,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Gesha Honey ,340 GR,,5,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Don Reinaldo ,340 GR,,10,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Gesha Natural,2500 GR ,,2,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1435,6-11-23,6-11-23,Madre Laura ,340 GR,,16,,,ECC,LFQ ,DV
+1422,6-11-23,6-11-23,Don Reinaldo ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1422,6-11-23,6-11-23,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1437,6-11-23,6-11-23,Madre Laura ,340 GR,,3,,,Monkey Group,LFQ ,DV
+1436,6-11-23,6-11-23,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1443,6-11-23,6-11-23,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1439,6-11-23,6-11-23,Madre Laura ,340 GR,,1,,,La Revuelta ,LFQ ,DV
+1438,6-11-23,6-11-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1442,6-11-23,6-11-23,Madre Laura ,1000 GR ,,1,,,Maria La Baja ,LFQ ,DV
+1442,6-11-23,6-11-23,Madre Laura ,340 GR,,1,,,Maria La Baja ,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Madre Laura ,340 GR,,18,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Don Reinaldo ,340 GR,,10,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1487,14-11-23 ,14-11-23 ,Doña Liceth ,2500 GR ,,5,,,ECC,LFQ ,DV
+1445,6-11-23,6-11-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1446,6-11-23,6-11-23,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1447,6-11-23,6-11-23,Madre Laura ,2500 GR ,,8,,,Josue Marin ,LFQ ,DV
+1444,6-11-23,6-11-23,Don Reinaldo ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1444,6-11-23,6-11-23,Madre Laura ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1453,6-11-23,6-11-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1448,15-11-23 ,15-11-23 ,Madre Laura ,2500 GR ,,2,,,Valentina Londoño ,LFQ ,DV
+1472,15-11-23 ,15-11-23 ,Madre Laura ,340 GR ,,16,,,ECC ,LFQ ,DV
+1472,15-11-23 ,15-11-23 ,Madre Laura ,340 GR ,,6,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Madre Laura Natural ,340 GR,,10,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Gesha Honey ,340 GR,,5,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Doña Rosalba ,340 GR,,5,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Doña Liceth ,2500 GR ,,2,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Wush Wush Natural,340 GR ,,5,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Wush Wush Natural,1000 GR ,,1,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Doña Rosalba ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Don Victor - Maragogipe ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1472,15-11-23,15-11-23,Don Rafael- Pink Bourbon Lavado ,1000 GR ,,1,,,ECC ,LFQ ,DV
+1470,15-11-23,15-11-23,Madre Laura ,1000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1461,15-11-23,15-11-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1471,15-11-23,15-11-23,Madre Laura ,2500 GR ,,6,,,Monkey Group,LFQ ,DV
+1474,15-11-23,15-11-23,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1482,15-11-23,15-11-23,Madre Laura ,2500 GR ,,5,,,Raul - Barranquilla ,LFQ ,DV
+1485,15-11-23,15-11-23,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+1483,15-11-23,15-11-23,Madre Laura ,2500 GR ,,5,,,Woolgrove ,LFQ ,DV
+1488,15-11-23,15-11-23,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+1488,23-11-23 ,23-11-23 ,Madre Laura ,340 GR,,18,,,ECC,LFQ ,DV
+1488,23-11-23 ,23-11-23 ,Madre Laura Natural   ,340 GR ,,10,,,ECC,LFQ ,DV
+1488,23-11-23,23-11-23,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1488,23-11-23,23-11-23,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1488,23-11-23,23-11-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1488,23-11-23,23-11-23,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1488,23-11-23,23-11-23,Familia Bedoya Castaño ,2500 GR ,,1,,,ECC,LFQ ,DV
+1492,23-11-23,23-11-23,Madre Laura ,2500 GR ,,1,,,Laitania ,LFQ ,DV
+1493,23-11-23,23-11-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1490,23-11-23,23-11-23,Familia Bedoya Castaño ,340 GR ,,6,,,Angela Castaño ,LFQ ,DV
+1502,23-11-23,23-11-23,Madre Laura ,2500 GR ,,9,,,Martin Ruiz ,LFQ ,DV
+1502,23-11-23,23-11-23,Doña Liceth ,2500 GR ,,1,,,Martin Ruiz ,LFQ ,DV
+1501,6-12-23,6-12-23,Madre Laura ,2500 GR ,,6,,,Daniel Herrera ,LFQ ,DV
+1503,23-11-23,23-11-22,Madre Laura ,340 GR ,,18,,,ECC ,LFQ ,DV
+1503,23-11-23,23-11-23,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1503,23-11-23,23-11-23,Madre Laura Descafeinado,340 GR ,,3,,,ECC,LFQ ,DV
+1503,23-11-23,23-11-23,Familia Bedoya Castaño ,340 GR ,,6,,,ECC,LFQ ,DV
+1503,23-11-23,23-11-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1503,23-11-23,23-11-23,Doña Rosalba ,340 GR,,5,,,ECC,LFQ ,DV
+1504,23-11-23,23-11-23,Madre Laura ,2000 GR,,1,,,La Revuelta ,LFQ ,DV
+1505,5-12-23,5-12-23,Madre Laura ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1506,5-12-23,5-12-23,Madre Laura ,2500 GR,,5,,,Swiss Bakery ,LFQ ,DV
+1507,5-12-23,5-12-23,Gesha Honey ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1507,5-12-23,5-12-23,Madre Laura Natural ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1508,5-12-23,5-12-23,Madre Laura ,2500 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1526,5-12-23,5-12-23,Madre Laura ,250 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1542,5-12-23,5-12-23,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Madre Laura Natural ,340 GR ,,15,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Don Rafael- Pink Bourbon Lavado ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Don Victor - Maragogipe ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Doña Dolly ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Doña Rosalba ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Gesha Honey ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Familia Bedoya Castaño ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Familia Gutierrez ,340 GR,,10,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Madre Laura Descafeinado,340 GR,,3,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Familia Bedoya Castaño ,2500 GR,,1,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Doña Liceth ,2500 GR ,,1,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Don Rafael- Pink Bourbon Lavado ,1000 GR ,,1,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Don Victor - Maragogipe ,1000 GR ,,1,,,ECC,LFQ ,DV
+1542,5-12-23,5-12-23,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1527,5-12-23,5-12-23,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+1528,5-12-23,5-12-23,Madre Laura ,340 GR ,,10,,,Color Cacao ,LFQ ,DV
+1529,5-12-23,5-12-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1530,5-12-23,5-12-23,Madre Laura ,340 GR ,,2,,,Front & Back ,LFQ ,DV
+1534,5-12-23,5-12-23,Madre Laura ,340 GR ,,13,,,Color Cacao ,LFQ ,DV
+1525,5-12-23,5-12-23,Madre Laura ,1000 GR ,,1,,,Maria La Baja ,LFQ ,DV
+1535,5-12-23,5-12-23,Madre Laura ,2500 GR ,,6,,,Swiss Bakery ,LFQ ,DV
+1537,5-12-23,5-12-23,Madre Laura ,340 GR ,,10,,,Color Cacao ,LFQ ,DV
+1536,5-12-23,5-12-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1538,5-12-23,5-12-23,Madre Laura Natural,340 GR,,10,,,Daniel Velasquez ,LFQ ,DV
+1538,5-12-23,5-12-23,Madre Laura ,340 GR,,30,,,Daniel Velasquez ,LFQ ,DV
+1539,5-12-23,5-12-23,Madre Laura ,2500 GR ,,80,,,Epoca ,LFQ ,DV
+1540,5-12-23,5-12-23,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1541,10-12-23,10-12-23,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1543,10-12-23,10-12-23,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1545,10-12-23,10-12-23,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1546,10-12-23,10-12-23,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1548,20-12-23 ,20-12-23 ,Madre Laura ,340 GR ,,18,,,ECC ,LFQ ,DV
+1548,20-12-23 ,20-12-23 ,Madre Laura Natural ,340 GR ,,10,,,ECC ,LFQ ,DV
+1548,20-12-23 ,20-12-23 ,Familia Bedoya Castaño ,340 GR,,5,,,ECC ,LFQ ,DV
+1548,20-12-23,20-12-23,Doña Rosalba ,340 GR,,5,,,ECC ,LFQ ,DV
+1548,20-12-23,20-12-23,Familia Gutierrez ,340 GR,,5,,,ECC ,LFQ ,DV
+1548,20-12-23,20-12-23,Doña Liceth ,2500 GR ,,1,,,ECC ,LFQ ,DV
+1548,20-12-23,20-12-23,Familia Bedoya Castaño ,2500 GR ,,1,,,ECC ,LFQ ,DV
+1547,22-12-23 ,22-12-23 ,Don Rafael- Pink Bourbon Lavado ,2500 GR,,1,,,Woolgrove ,LFQ ,DV
+1547,22-12-23 ,22-12-23 ,Madre Laura ,2500 GR,,4,,,Woolgrove ,LFQ ,DV
+1550,22-12-23,22-12-23,Madre Laura ,2500 GR,,2,,,Valentina Londoño ,LFQ ,DV
+1561,26-12-23,26-12-23 ,Madre Laura ,340 GR ,,5,,,Monkey Group,LFQ ,DV
+1562,26-12-23,26-12-23 ,Madre Laura ,2500 GR ,,80,,,Epoca ,LFQ ,DV
+1562,26-12-23,26-12-23 ,Tabia Natural ,2500 GR ,,4,,,Epoca ,LFQ ,DV
+1563,26-12-23,26-12-23 ,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+1564,26-12-23,26-12-23,Madre Laura ,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+1616,26-12-23,26-12-23,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1615,26-12-23,26-12-23,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Madre Laura ,340 GR ,,16,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Doña Rosalba ,340 GR,,5,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Don Rafael- Pink Bourbon Lavado ,1000 GR ,,1,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Don Victor - Maragogipe ,1000 GR ,,1,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Wush Wush Natural,1000 GR ,,1,,,ECC,LFQ ,DV
+1615,26-12-23,26-12-23,Doña Rosalba ,1000 GR ,,1,,,ECC,LFQ ,DV
+1617,26-12-23,26-12-23,Madre Laura ,2500 GR,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1619,26-12-23,26-12-23,Madre Laura ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1619,26-12-23,26-12-23,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1621,26-12-23,26-12-23,Madre Laura ,2500 GR,,6,,,Woolgrove ,LFQ ,DV
+1622,26-12-23,26-12-23,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1625,26-12-23,26-12-23,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1624,26-12-23,26-12-23,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1626,9-1-24,9-1-24,Madre Laura ,454 GR,,30,,,Daniel Velasquez ,LFQ ,DV
+1627,9-1-24,9-1-24,Madre Laura ,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+1630,9-1-24,9-1-24,Madre Laura ,2500 GR,,2,,,Josue Marin ,LFQ ,DV
+1551,9-1-24,9-1-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1631,9-1-24,9-1-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1632,9-1-24,9-1-24,Madre Laura ,340 GR ,,8,,,Woolgrove ,LFQ ,DV
+1635,9-1-24,9-1-24,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1629,9-1-24,9-1-24,Doña Liceth ,2500 GR,,2,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Madre Laura ,340 GR ,,25,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Familia Bedoya Castaño ,340 GR,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Doña Rosalba ,340 GR,,5,,,ECC,LFQ ,DV
+1629,9-1-24,9-1-24,Madre Laura ,340 GR,,8,,,ECC,LFQ ,DV
+1636,9-1-24,9-1-24,Madre Laura ,2500 GR ,,1,,,Juan Pablo Perez ,LFQ ,DV
+1637,9-1-24,9-1-24,Tabia Natural ,2500 GR ,,16,,,Epoca ,LFQ ,DV
+1638,9-1-24,9-1-24,Madre Laura Natural ,340 GR ,,1,,,Karol Diaz ,LFQ ,DV
+1642,9-1-24,9-1-24,Madre Laura Natural ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1648,9-1-24,9-1-24,Madre Laura Natural ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1644,15-1-24,15-1-24,Madre Laura Natural ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+1643,15-1-24,15-1-24,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Familia Bedoya Castaño ,340 GR ,,10,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Familia Gutierrez ,340 GR ,,5,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Gesha Honey ,340 GR,,5,,,ECC,LFQ ,DV
+1643,15-1-24,15-1-24,Doña Rosalba ,340 GR,,5,,,ECC,LFQ ,DV
+1648,15-1-24,15-1-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1644,15-1-24,15-1-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+1649,15-1-24,15-1-24,Madre Laura ,2500 GR ,,1,,,Jose Hernandez ,LFQ ,DV
+1650,15-1-24,15-1-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1650,15-1-24,15-1-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1651,15-1-24,15-1-24,Madre Laura ,2500 GR ,,2,,,Valentina Londoño ,LFQ ,DV
+1652,15-1-24,15-1-24,Madre Laura ,2500 GR ,,4,,,Josue Marin ,LFQ ,DV
+1653,15-1-24,15-1-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1654,15-1-24,15-1-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1661,21-1-24,21-1-24,Madre Laura ,2500 GR,,3,,,Josue Marin ,LFQ ,DV
+1660,21-1-24 ,21-1-24 ,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1664,21-1-24,21-1-24,Madre Laura ,2500 GR ,,64,,,Epoca ,LFQ ,DV
+1665,21-1-24,21-1-24,Madre Laura ,2000 GR,,1,,,La Revuelta ,LFQ ,DV
+1665,21-1-24,21-1-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1663,21-1-24,21-1-24,Madre Laura ,340 GR ,,20,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Doña Dolly ,340 GR ,,5,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Doña Rosalba ,340 GR,,5,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Wush Wush Natural,340 GR,,5,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Familia Bedoya Castaño ,340 GR,,14,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1663,21-1-24,21-1-24,Familia Bedoya Castaño ,2500 GR ,,1,,,ECC,LFQ ,DV
+1667,21-1-24,21-1-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1666,21-1-24,21-1-24,Madre Laura ,2500 GR ,,3,,,Swiss Bakery ,LFQ ,DV
+1692,21-1-24,21-1-24,Madre Laura ,2500 GR ,,1,,,Sereno Producciones ,LFQ ,DV
+1694,21-1-24,21-1-24,Madre Laura ,2500 GR ,,3,,,Josue Marin ,LFQ ,DV
+1694,29-1-24,29-1-24 ,Madre Laura Natural ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+1693,21-1-24,21-1-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1698,21-1-24,21-1-24,Madre Laura ,2500 GR ,,5,,,Josue Marin ,LFQ ,DV
+1695,21-1-24,21-1-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1696,21-1-24,21-1-24,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1699,21-1-24,21-1-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1700,21-1-24,21-1-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1702,21-1-24,21-1-24,Madre Laura ,340 GR ,,4,,,Monkey Group,LFQ ,DV
+1703,30-1-24 ,30-1-24 ,Madre Laura ,2500 GR ,,3,,,Josue Marin ,LFQ ,DV
+1724,3-2-24,3-2-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1724,3-2-24,3-2-24,Madre Laura Naturlal,340 GR ,,10,,,ECC,LFQ ,DV
+1724,3-2-24,3-2-24,Madre Laura ,340 GR ,,20,,,ECC,LFQ ,DV
+1724,3-2-24,3-2-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+1724,3-2-24,3-2-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+1724,3-2-24,3-2-24,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1706,3-2-24,3-2-24,Madre Laura ,2500 GR ,,4,,,Unidad Gomez Navarro,LFQ ,DV
+1707,3-2-24,3-2-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1708,3-2-24,3-2-24,Madre Laura ,2500 GR,,5,,,Swiss Bakery ,LFQ ,DV
+1709,3-2-24,3-2-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1709,3-2-24,3-2-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1709,3-2-24,3-2-24,Madre Laura ,2000 GR ,,1,,,La Revuelta ,LFQ ,DV
+1710,3-2-24,3-2-24,Madre Laura ,340 GR ,,1,,,Food Ops ,LFQ ,DV
+1711,3-2-24,3-2-24,Madre Laura ,2500 GR ,,5,,,Woolgrove ,LFQ ,DV
+1711,3-2-24,3-2-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,1,,,Woolgrove ,LFQ ,DV
+1726,3-2-24,3-2-24,Madre Laura ,2500 GR ,,2,,,Josue Marin,LFQ ,DV
+1727,3-2-24,3-2-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1727,3-2-24,3-2-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1728,3-2-24,3-2-24,Madra Laura ,2500 GR ,,2,,,Akio ,LFQ ,DV
+1738,10-2-24,10-2-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Madre Laura Natural ,340 GR,,10,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Familia Vergara ,340 GR,,2,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Madre Laura ,340 GR,,8,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Doña Liceth ,2500 GR ,,2,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Familia Bedoya Castaño ,1000 GR ,,1,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Johan ,1000 GR ,,1,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Victor - Maragogipe ,1000 GR,,1,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Don Rafael- Pink Bourbon Lavado ,1000 GR,,1,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Familia Gutierrez ,500 GR,,1,,,ECC,LFQ ,DV
+1738,10-2-24,10-2-24,Familia Vergara ,1000 GR,,1,,,ECC,LFQ ,DV
+1740,10-2-24,10-2-24,Madre Laura ,2500 GR ,,3,,,Josue Marin,LFQ ,DV
+1741,10-2-24,10-2-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1742,10-2-24,10-2-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1743,10-2-24,10-2-24,Don Victor - Maragogipe ,340 GR,,1,,,Woolgrove ,LFQ ,DV
+1743,10-2-24,10-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,4,,,Woolgrove ,LFQ ,DV
+1743,10-2-24,10-2-24,Madre Laura ,340 GR,,8,,,Woolgrove ,LFQ ,DV
+1745,10-2-24,10-2-24,Madre Laura ,2500 GR ,,60,,,Epoca ,LFQ ,DV
+1745,10-2-24,10-2-24,Tabia Natural ,2500 GR,,40,,,Epoca ,LFQ ,DV
+1744,10-2-24,10-2-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+,17-2-24 ,17-2-24 ,Madre Laura ,340 GR ,,2,,,Elvia Olaya ,LFQ ,DV
+,17-2-24,17-2-24 ,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+,17-2-24,17-2-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1764,17-2-24,17-2-24,Madre Laura ,340 GR ,,5,,,Monkey Group,LFQ ,DV
+1765,17-2-24,17-2-24,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+,17-2-24,17-2-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1766,23-2-24 ,23-2-24 ,Madre Laura ,340 GR ,,10,,,ECC ,LFQ ,DV
+1766,23-2-24 ,23-2-24 ,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Doña Dolly ,340 GR,,10,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Don Johan ,340 GR,,5,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Familia Gutierrez ,340 GR,,1,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Familia Vergara ,340 GR,,5,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Madre Laura ,340 GR,,12,,,ECC ,LFQ ,DV
+1766,23-2-24,23-2-24,Doña Liceth ,2500 GR ,,2,,,ECC ,LFQ ,DV
+1768,17-2-24,17-2-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1772,17-2-24,17-2-24,Madre Laura ,2500 GR ,,1,,,Valentina Londoño ,LFQ ,DV 
+1772,17-2-24,17-2-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1772,23-2-24 ,23-2-24 ,Madre Laura ,340 GR ,,10,,,ECC ,LFQ ,DV
+1772,23-2-24 ,23-2-24 ,Madre Laura Natural ,340 GR,,5,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Don Felix ,340 GR,,10,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Don Johan ,340 GR,,5,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Familia Vergara ,340 GR,,13,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Madre Laura ,340 GR,,12,,,ECC ,LFQ ,DV
+1772,23-2-24,23-2-24,Gesha Honey ,340 GR,,4,,,ECC ,LFQ ,DV
+1771,23-2-24,23-2-24,Madre Laura ,2500 GR ,,1,,,Food Ops ,LFQ ,DV
+1771,23-2-24,23-2-24,Madre Laura ,340 GR ,,2,,,Food Ops ,LFQ ,DV
+1775,23-2-24,23-2-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1776,23-2-24,23-2-24,Madre Laura ,2500 GR ,,1,,,Valentina Londoño ,LFQ ,DV
+1779,23-2-24,23-2-24,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+1780,23-2-24,23-2-24,Madre Laura ,2500 GR ,,5,,,Daniel Herrera ,LFQ ,DV
+1782,2-3-24,2-3-24,Madre Laura ,2500 GR ,,4,,,Woolgrove ,LFQ ,DV
+1783,23-2-24,23-2-24,Madre Laura ,2500 GR ,,4,,,Santigo Ortegon,LFQ ,DV
+1781,2-3-24,2-3-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1787,23-2-24,23-2-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1788,23-2-24,23-2-24,Madre Laura ,2500 GR ,,2,,,Akio,LFQ ,DV
+1786,23-2-24,23-2-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+1786,23-2-24,23-2-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1785,23-2-24,23-2-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1784,23-2-24,23-2-24,Madre Laura ,340 GR,,10,,,ECC ,LFQ ,DV
+1784,23-2-24,23-2-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Don Felix ,340 GR,,10,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Don Victor - Maragogipe ,340 GR,,5,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+1784,23-2-24,23-2-24,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+1811,23-2-24,23-2-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1811,23-2-24,23-2-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1811,23-2-24,23-2-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1809,8-3-24,8-3-24,Madre Laura ,340 GR ,,10,,,Color Cacao ,LFQ ,DV
+1810,8-3-24,8-3-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1815,8-3-24,8-3-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Familia Vergara ,340 GR ,,5,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Don Felix ,340 GR,,10,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Madre Laura Natural   ,2500 GR ,,1,,,ECC,LFQ ,DV
+1815,8-3-24,8-3-24,Madre Laura ,340 GR ,,12,,,ECC,LFQ ,DV
+1817,8-3-24,8-3-24,Madre Laura ,2500 GR ,,3,,,Valentina Londoño ,LFQ ,DV
+1819,14-3-24,14-3-24 ,Madre Laura ,2500 GR,,3,,,Woolgrove ,LFQ ,DV
+1820,14-3-24 ,14-3-24 ,Madre Laura ,2500 GR,,4,,,Monkey Group,LFQ ,DV
+1827,14-3-24,14-3-24,Familia Vergara ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1827,14-3-24,14-3-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1829,14-3-24,14-3-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1831,14-3-24,14-3-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1833,14-3-24,14-3-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1833,14-3-24,14-3-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1833,14-3-24,14-3-24,Madre Laura ,2500 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1834,14-3-24,14-3-24,Madre Laura ,340 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1834,14-3-24,14-3-24,Madre Laura ,340 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1837,21-3-24,21-3-24 ,Madre Laura ,340 GR,,8,,,Monkey Group,LFQ ,DV
+1830,14-3-24 ,14-3-24 ,Madre Laura ,340 GR,,25,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Madre Laura Natural ,340 GR,,20,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Felix ,340 GR,,20,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Familia Gutierrez ,340 GR,,15,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Familia Vergara ,340 GR,,15,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Johan ,340 GR,,10,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Victor - Maragogipe ,340 GR,,10,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,10,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Madre Laura ,340 GR ,,20,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Johan ,1000 GR,,1,,,ECC,LFQ ,DV
+1830,14-3-24,14-3-24,Don Victor - Maragogipe ,1000 GR,,1,,,ECC,LFQ ,DV
+1839,14-3-24,14-3-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1839,14-3-24,14-3-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1851,14-3-24,14-3-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+1851,14-3-24,14-3-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+1853,18-3-24,18-3-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1854,18-3-24,18-3-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1854,18-3-24,18-3-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1855,18-3-24,18-3-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+1876,23-3-24 ,23-3-24 ,Familia Vergara ,340 GR ,,1,,,Daniel Velasquez ,LFQ ,DV
+1876,23-3-24 ,23-3-24 ,Don Victor - Maragogipe ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+1878,23-3-24,23-3-24,Madre Laura Lavado ,340 GR,,6,,,Woolgrove ,LFQ ,DV
+1878,23-3-24,23-3-24,Don Victor - Maragogipe ,340 GR,,7,,,Woolgrove ,LFQ ,DV
+1878,23-3-24,23-3-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,6,,,Woolgrove ,LFQ ,DV
+1878,23-3-24,23-3-24,Madre Laura Lavado ,2500 GR ,,5,,,Woolgrove ,LFQ ,DV
+1877,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR ,,4,,,Daniel Herrera ,LFQ ,DV
+1879,23-3-24,23-3-24,Madre Laura Lavado ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1880,23-3-24,23-3-24,Madre Laura Lavado ,340 GR,,6,,,Unidad Gomez Navarro,LFQ ,DV
+1880,23-3-24,23-3-24,Madre Laura Lavado ,2500 GR ,,2,,,Unidad Gomez Navarro,LFQ ,DV
+1881,23-3-24,23-3-24,Don Felix ,340 GR,,5,,,Collin Obrien ,LFQ ,DV
+1881,23-3-24,23-3-24,Don Victor - Maragogipe ,340 GR,,1,,,Collin Obrien ,LFQ ,DV
+1881,23-3-24,23-3-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,2,,,Collin Obrien ,LFQ ,DV
+1881,23-3-24,23-3-24,Familia Vergara ,340 GR,,1,,,Collin Obrien ,LFQ ,DV
+1881,23-3-24,23-3-24,Familia Gutierrez ,340 GR ,,1,,,Collin Obrien ,LFQ ,DV
+1882,23-3-24,23-3-24,Madre Laura Lavado ,2500 GR ,,1,,,Calante ,LFQ ,DV
+1883,23-3-24,23-3-24,Madre Laura Lavado ,2500 GR ,,3,,,Josue Marin,LFQ ,DV
+1884,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1885,3-4-24,3-4-24,Madre Laura Lavado ,340 GR,,1,,,La Revuelta ,LFQ ,DV
+1886,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR ,,1,,,Juan Pablo Perez ,LFQ ,DV
+1919,3-4-24,3-4-24,Madre Laura Lavado ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1919,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1918,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR,,5,,,Swiss Bakery ,LFQ ,DV
+1887,3-4-24,3-4-24,Madre Laura Lavado ,2500 GR,,1,,,Akio,LFQ ,DV
+1925,3-4-24,3-4-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Don Felix ,340 GR ,,10,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,5,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,3,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+1925,3-4-24,3-4-24,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1921,3-4-24,3-4-24,Madre Laura  ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1921,3-4-24,3-4-24,Madre Laura ,250 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1917,3-4-24,3-4-24,Don Victor - Maragogipe ,340 GR ,,5,,,ECC,LFQ ,DV
+1917,3-4-24,3-4-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+1917,3-4-24,3-4-24,Don Felix ,340 GR ,,5,,,ECC,LFQ ,DV
+1917,3-4-24,3-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,5,,,ECC,LFQ ,DV
+1917,3-4-24,3-4-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+1917,3-4-24,3-4-24,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1929,3-4-24,3-4-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+1921,3-4-24,3-4-24,Madre Laura  ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1922,10-4-24,10-4-24,Madre Laura ,340 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+1922,10-4-24,10-4-24,Madre Laura Natural ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1922,10-4-24,10-4-24,Familia Vergara ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+1923,10-4-24,10-4-24,Madre Laura ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+1924,10-4-24,10-4-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+1941,10-4-24,10-4-24,Madre Laura,340 GR ,,10,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24, Madre Laura Natural ,340 GR ,,10,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Don Johan ,340 GR ,,5,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Don Victor - Maragogipe ,340 GR ,,4,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1941,10-4-24,10-4-24,Don Felix ,340 GR,,6,,,ECC,LFQ ,DV
+1938,10-4-24,10-4-24,Madre Laura ,2500 GR ,,3,,,Daniel Herrera ,LFQ ,DV
+1939,10-4-24,10-4-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+1940,10-4-24,10-4-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+1942,10-4-24,10-4-24,Madre Laura ,2500 GR,,3,,,Alvaro Sarmiento ,LFQ ,DV
+1942,10-4-24,10-4-24,Madre Laura ,340 GR ,,5,,,Alvaro Sarmiento ,LFQ ,DV
+1952,10-4-24,10-4-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1954,10-4-24,10-4-24,Don Victor - Red Bourbon ,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+1954,10-4-24,10-4-24,Famila Vergara ,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+1954,10-4-24,10-4-24,Don Johan ,340 GR ,,1,,,Miguel Urrea ,LFQ ,DV
+1953,10-4-24,10-4-24,Madre Laura ,2500 GR ,,5,,,Swiss Bakery ,LFQ ,DV
+1957,10-4-24,10-4-24,Madre Laura ,2500 GR,,1,,,Brandex ,LFQ ,DV
+1956,10-4-24,10-4-24,Madre Laura ,2500 GR,,2,,,Josue Marin ,LFQ ,DV
+1955,10-4-24,10-4-24,Madre Laura ,340 GR ,,15,,,Collin Obrien ,LFQ ,DV
+1955,10-4-24,10-4-24,Doña Dolly ,340 GR ,,5,,,Collin Obrien ,LFQ ,DV
+1963,10-4-24,10-4-24,Madre Laura ,340 GR ,,4,,,Monkey Group,LFQ ,DV
+1964,24-4-24 ,24-4-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+1964,24-4-24 ,24-4-24 ,Madre Laura ,340 GR,,8,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Famila Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Famila Vergara ,1000 GR,,1,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Victor - Red Bourbon ,1000 GR ,,1,,,ECC,LFQ ,DV
+1964,24-4-24,24-4-24,Don Johan ,1000 GR ,,1,,,ECC,LFQ ,DV
+1967,24-4-24,24-4-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV 
+1966,24-4-24,24-4-24,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV 
+1965,24-4-24,24-4-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV 
+1965,24-4-24,24-4-24,Madre Laura ,2500 GR ,,2,,,La Revuelta ,LFQ ,DV 
+1985,24-4-24,24-4-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV 
+1985,24-4-24,24-4-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV 
+1986,24-4-24,24-4-24,Madre Laura ,2500 GR ,,2,,,Valentina Londoño ,LFQ ,DV
+1988,24-4-24,24-4-24,Madre Laura ,2500 GR,,1,,,Calante ,LFQ ,DV
+1984,24-4-24,24-4-24,Madre Laura ,2500 GR,,6,,,Woolgrove ,LFQ ,DV
+1984,24-4-24,24-4-24,Madre Laura ,340 GR ,,6,,,Woolgrove ,LFQ ,DV
+1984,24-4-24,24-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,5,,,Woolgrove ,LFQ ,DV
+1990,24-4-24,24-4-24,Madre Laura ,340 GR ,,4,,,ECC,LFQ ,DV
+1995,24-4-24,24-4-24,Madre Laura Descafeinado ,2500 GR ,,1,,,Lleras Holding ,LFQ ,DV
+1997,24-4-24,24-4-24,Madre Laura ,2500 GR,,2,,,Cecilia Zuluaga ,LFQ ,DV
+1996,24-4-24,24-4-24,Madre Laura ,2500 GR,,5,,,Swiss Bakery ,LFQ ,DV
+1999,24-4-24,24-4-24,Madre Laura ,2500 GR,,1,,,Jose Hernandez ,LFQ ,DV
+2006,24-4-24,24-4-24,Madre Laura ,2500 GR,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2012,24-4-24,24-4-24,Don Victor Red Bourbon Honey ,340 GR ,,1,,,Douglas Hernandez ,LFQ ,DV
+2012,24-4-24,24-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,1,,,Douglas Hernandez ,LFQ ,DV
+2013,24-4-24,24-4-24,Madre Laura ,2500 GR,,1,,,Daniel Herrera ,LFQ ,DV
+2014,29-4-24,29-4-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Doña Dolly ,340 GR,,15,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Famila Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Madre Laura Natural ,2500 GR,,1,,,ECC,LFQ ,DV
+2014,29-4-24,29-4-24,Don Rafael- Pink Bourbon Lavado ,2500 GR,,2,,,ECC,LFQ ,DV
+2017,29-4-24,29-4-24,Madre Laura Natural ,2500 GR,,5,,,Epoca ,LFQ ,DV
+2017,29-4-24,29-4-24,Madre Laura ,2500 GR,,50,,,Epoca ,LFQ ,DV
+2016,29-4-24,29-4-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+2034,29-4-24,29-4-24,Don Victor Red Bourbon Honey ,2500 GR,,1,,,Harold Patron ,LFQ ,DV
+2034,29-4-24,29-4-24,Madre Laura Natural ,2500 GR,,1,,,Harold Patron ,LFQ ,DV
+2024,29-4-24,29-4-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2018,29-4-24,29-4-24,Madre Laura ,2500 GR,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2020,29-4-24,29-4-24,Madre Laura ,2500 GR,,5,,,Swiss Bakery ,LFQ ,DV
+2022,29-4-24,29-4-24,Madre Laura ,2500 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+2022,29-4-24,29-4-24,Madre Laura ,340 GR,,6,,,Daniel Velasquez ,LFQ ,DV
+2023,29-4-24,29-4-24,Madre Laura ,2500 GR,,1,,,Akio,LFQ ,DV
+2024,29-4-24,29-4-24,Madre Laura ,2500 GR,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2026,29-4-24,29-4-24,Madre Laura ,340 GR ,,4,,,ECC,LFQ ,DV
+2031,29-4-24,29-4-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+2031,29-4-24,29-4-24,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Doña Dolly ,340 GR,,10,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Familia Gutierrez ,340 GR,,5,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Don Victor - Red Bourbon ,340 GR ,,5,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Familia Gutierrez ,1000 GR ,,1,,,ECC,LFQ ,DV
+2031,6-5-24,6-5-24,Don Victor - Red Bourbon ,1000 GR ,,1,,,ECC,LFQ ,DV
+2029,6-5-24,6-5-24,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+2031,6-5-24,6-5-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+2040,6-5-24,6-5-24,Madre Laura ,2500 GR ,,4,,,Lina Zea ,LFQ ,DV
+2035,6-5-24,6-5-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+2035,6-5-24,6-5-24,Madre Laura ,340 GR ,,2,,,La Revuelta ,LFQ ,DV
+2036,6-5-24,6-5-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+2038,6-5-24,6-5-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2038,6-5-24,6-5-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2037,6-5-24,6-5-24,Madre Laura ,2500 GR ,,6,,, Swiss Bakery ,LFQ ,DV
+2039,6-5-24,6-5-24,Madre Laura ,2500 GR ,,1,,, Josue Marin ,LFQ ,DV
+2044,6-5-24,6-5-24,Madre Laura ,2500 GR ,,5,,,Woolgrove ,LFQ ,DV
+2044,6-5-24,6-5-24,Madre Laura ,340 GR ,,2,,,Woolgrove ,LFQ ,DV
+2044,6-5-24,6-5-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,3,,,Woolgrove ,LFQ ,DV
+2044,6-5-24,6-5-24,Don Victor - Red Bourbon ,340 GR,,4,,,Woolgrove ,LFQ ,DV
+2041,6-5-24,6-5-24,Madre Laura,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2046,6-5-24,6-5-24,Madre Laura ,2500 GR ,,4,,,Daniel Herrera ,LFQ ,DV
+2043,6-5-24,6-5-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+2042,6-5-24,6-5-24,Madre Laura ,340 GR ,,5,,,Monkey Group,LFQ ,DV
+2045,17-5-24 ,17-5-24 ,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+2045,17-5-24 ,17-5-24 ,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Doña Dolly ,340 GR,,10,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,1,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+2045,17-5-24,17-5-24,Don Johan ,1000 GR ,,1,,,ECC,LFQ ,DV
+2059,17-5-24,17-5-24,Madre Laura ,2500 GR ,,50,,,Epoca ,LFQ ,DV
+2060,17-5-24,17-5-24,Famila Vergara ,340 GR ,,5,,,ECC,LFQ ,DV
+2060,17-5-24,17-5-24,Familia Gutierrez ,340 GR ,,5,,,ECC,LFQ ,DV
+2062,17-5-24,17-5-24,Madre Laura ,2500 Gr ,,1,,,La Revuelta ,LFQ ,DV
+2061,17-5-24,17-5-24,Doña Dolly ,340 GR ,,20,,,Swiss Contac ,LFQ ,DV
+2064,17-5-24,17-5-24,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+2065,17-5-24,17-5-24,Familia Vergara ,340 GR ,,2,,,Miguel Urrea ,LFQ ,DV
+2086,17-5-24,17-5-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2088,17-5-24,17-5-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+2087,17-5-24,17-5-24,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+2089,29-5-24 ,29-5-24 ,Madre Laura ,340 GR ,,25,,,ECC,LFQ ,DV
+2089,29-5-24 ,29-5-24 ,Madre Laura ,340 GR ,,6,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Madre Laura Natural ,340 GR,,10,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Don Victor - Red Bourbon ,340 GR,,12,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Familia Gutierrez ,340 GR ,,5,,,ECC,LFQ ,DV
+2089,29-5-24,29-5-24,Don Rafael- Pink Bourbon Lavado ,2500 GR  ,,2,,,ECC,LFQ ,DV
+2092,29-5-24,29-5-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+2093,29-5-24,29-5-24,Madre Laura ,2500 GR ,,1,,,Brandex ,LFQ ,DV
+2094,29-5-24,29-5-24,Madre Laura ,2500 Gr ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2094,29-5-24,29-5-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2095,29-5-24,29-5-24,Madre Laura ,2500 GR ,,2,,,Valentina Londoño ,LFQ ,DV
+2100,29-5-24,29-5-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+2101,29-5-24,29-5-24,Madre Laura ,2500 GR ,,2,,,Daniel Herrera ,LFQ ,DV
+2102,29-5-24,29-5-24,Madre Laura ,2500  Gr ,,6,,,Swiss Bakery ,LFQ ,DV
+2096,29-5-24,29-5-24,Madre Laura ,2500 GR ,,2,,,Lleras Holding ,LFQ ,DV
+2099,29-5-24,29-5-24,Madre Laura ,340 GR ,,2,,,Monkey Group,LFQ ,DV
+2099,29-5-24,29-5-24,Madre Laura ,2500 GR ,,5,,,Cronicas ,LFQ ,DV
+2099,29-5-24,29-5-24,Madre Laura ,340 GR ,,4,,,Cronicas ,LFQ ,DV
+2099,29-5-24,29-5-24,Don Victor - Red Bourbon ,340 GR ,,4,,,Cronicas ,LFQ ,DV
+2099,29-5-24,29-5-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,4,,,Cronicas ,LFQ ,DV
+2097,29-5-24,29-5-24,Madre Laura ,340 GR ,,2,,,Daniel Velasquez ,LFQ ,DV
+2104,4-6-24,4-6-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Madre Laura ,340 GR,,8,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Don Johan ,340 GR,,5,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Don Victor Red Bourbon Honey ,340 GR,,5,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Don Rafael- Pink Bourbon Lavado ,2500 GR,,1,,,ECC,LFQ ,DV
+2104,4-6-24,4-6-24,Doña Dolly ,340 GR,,5,,,ECC,LFQ ,DV
+2106,4-6-24,4-6-24,Madre Laura ,2500 GR ,,3,,,Alvaro Sarmiento ,LFQ ,DV
+2105,4-6-24,4-6-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2113,4-6-24,4-6-24,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+2111,4-6-24,4-6-24,Madre Laura Natural ,2500 GR,,1,,,Harold Patron ,LFQ ,DV
+2111,4-6-24,4-6-24,Don Victor Red Bourbon Honey ,2500 GR,,1,,,Harold Patron ,LFQ ,DV
+2114,12-6-24,12-6-24,Don Rafael- Pink Bourbon Lavado ,2500 GR,,1,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Madre Laura ,340 GR ,,8,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Familia Gutierrez ,340 GR ,,3,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Familia Vergara ,340 GR ,,5,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Don Johan ,340 GR ,,5,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Doña Dolly ,340 GR ,,10,,,ECC,LFQ ,DV
+2114,12-6-24,12-6-24,Don Victor Red Bourbon Honey ,340 GR ,,5,,,ECC,LFQ ,DV
+2117,12-6-24,12-6-24,Madre Laura ,2500 GR ,,3,,,Unidad Gomez Navarro ,LFQ ,DV
+2115,12-6-24,12-6-24,Madre Laura ,2500 GR ,,1,,,Akio,LFQ ,DV
+2116,12-6-24,12-6-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2116,12-6-24,12-6-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2133,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,2,,,Alvaro Sarmiento ,LFQ ,DV
+2132,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,6,,,Swiss Bakery ,LFQ ,DV
+2134,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,1,,,Calante ,LFQ ,DV
+2128,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,1,,,Josue Marin ,LFQ ,DV
+2138,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,4,,,Monkey Group,LFQ ,DV
+2140,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,1,,,La Revuelta ,LFQ ,DV
+2139,12-6-24,12-6-24,Madre Laura ,"2500 GR 	",,1,,,Josue Marin ,LFQ ,DV
+2142,19-6-24 ,19-6-24 ,Madre Laura ,2500 GR ,,3,,,Cronicas ,LFQ ,DV
+2142,19-6-24 ,19-6-24 ,Don Victor Red Bourbon Honey ,340 GR ,,4,,,Cronicas ,LFQ ,DV
+2145,19-6-24,19-6-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2145,19-6-24,19-6-24,Familia Vergara ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2144,19-6-24,19-6-24,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+2146,19-6-24,19-6-24,Madre Laura ,2500 GR ,,1,,,Akio ,LFQ ,DV
+2174,19-6-24,19-6-24,Madre Laura ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2174,19-6-24,19-6-24,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Doña Dolly ,340 GR,,10,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Don Victor Red Bourbon Honey ,340 GR,,5,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Don Johan ,340 GR,,4,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Madre Laura ,340 GR,,8,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Madre Laura Natural ,2500 GR ,,1,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Caturro Natural - El Ocaso ,1000 GR ,,1,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Don Victor Red Bourbon Honey ,1000 GR ,,1,,,ECC,LFQ ,DV
+2174,19-6-24,19-6-24,Doña Dolly ,1000 GR ,,1,,,ECC,LFQ ,DV
+2147,19-6-24,19-6-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2148,19-6-24,19-6-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+2148,19-6-24,19-6-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+2149,19-6-24,19-6-24,Madre Laura ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2150,19-6-24,19-6-24,Madre Laura ,2500 GR,,6,,,Cronicas ,LFQ ,DV
+2150,19-6-24,19-6-24,Madre Laura ,340 GR ,,3,,,Cronicas ,LFQ ,DV
+2150,19-6-24,19-6-24,Don Rafael- Pink Bourbon Lavado ,340 GR ,,3,,,Cronicas ,LFQ ,DV
+2175,29-6-24 ,29-6-24 ,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+2151,29-6-24 ,29-6-24,Madre Laura ,340 GR ,,4,,,Monkey Group,LFQ ,DV
+2152,29-6-24,29-6-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2177,29-6-24,29-6-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2178,29-6-24,29-6-24,Madre Laura ,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+2179,29-6-24,29-6-24,Madre Laura ,2500 GR,,1,,,Santiago Ortegon,LFQ ,DV
+2180,29-6-24,29-6-24,Madre Laura ,2500 GR,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2183,29-6-24,29-6-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+2184,29-6-24,29-6-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+2189,29-6-24,29-6-24,Madre Laura ,2500 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2193,29-6-24,29-6-24,Madre Laura ,340 GR ,,1,,,Monkey Group,LFQ ,DV
+2194,29-6-24,29-6-24,Madre Laura ,340 GR ,,2,,,Cristina Peña ,LFQ ,DV
+2188,29-6-24,29-6-24,Madre Laura ,340 GR,,15,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Doña Dolly ,340 GR,,10,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Familia Vergara ,340 GR,,1,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,5,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Caturro Natural - El Ocaso ,340 GR,,10,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Madre Laura ,340 GR,,6,,,ECC,LFQ ,DV
+2188,29-6-24,29-6-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,1,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Madre Laura ,340 GR,,15,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Madre Laura Natural ,340 GR,,10,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Doña Dolly ,340 GR,,6,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Familia Vergara ,340 GR,,10,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Don Rafael- Pink Bourbon Lavado ,340 GR,,2,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Caturro Natural - El Ocaso ,340 GR,,5,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Madre Laura ,340 GR,,5,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Don Rafael- Pink Bourbon Lavado ,2500 GR ,,2,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Don Victor - Red Bourbon ,1000 GR ,,1,,,ECC,LFQ ,DV
+2192,3-7-24,3-7-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+2190,3-7-24,3-7-24,Don Victor - Red Bourbon ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2223,6-7-24,6-7-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+2224,6-7-24,6-7-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2227,6-7-24,6-7-24,Madre Laura ,340 GR ,,15,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Madre Laura Natural ,340 GR ,,10,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Doña Dolly ,340 GR,,5,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Familia Vergara ,340 GR,,10,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Caturro Natural - El Ocaso ,340 GR,,5,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Don Victor - Red Bourbon ,340 GR,,5,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Madre Laura ,340 GR,,5,,,ECC ,LFQ ,DV
+2227,6-7-24,6-7-24,Madre Laura,2500 GR ,,1,,,ECC ,LFQ ,DV
+2229,6-7-24,6-7-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2230,6-7-24,6-7-24,Madre Laura,2500 GR ,,4,,,Woolgrove ,LFQ ,DV
+2230,6-7-24,6-7-24,Madre Laura,340 GR ,,6,,,Woolgrove ,LFQ ,DV
+2230,6-7-24,6-7-24,Caturro Natural - El Ocaso ,340 GR ,,1,,,Woolgrove ,LFQ ,DV
+2231,6-7-24,6-7-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+2232,6-7-24,6-7-24,Madre Laura ,2500 GR ,,6,,,Daniel Herrera ,LFQ ,DV
+2236,6-7-24,6-7-24,Madre Laura ,2500 GR,,4,,,Swiss Bakery ,LFQ ,DV
+2235,6-7-24,6-7-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+2237,6-7-24,6-7-24,Madre Laura ,2500 GR,,3,,,Woolgrove ,LFQ ,DV
+2237,6-7-24,6-7-24,Madre Laura ,340 GR ,,2,,,Woolgrove ,LFQ ,DV
+2237,6-7-24,6-7-24,Don Victor - Red Bourbon ,340 GR,,5,,,Woolgrove ,LFQ ,DV
+2238,6-7-24,6-7-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2234,6-7-24,6-7-24,Madre Laura ,340 GR ,,5,,,Alvaro Sarmiento ,LFQ ,DV
+2233,6-7-24,6-7-24,Familia Vergara ,340 GR ,,3,,,Miguel Urrea ,LFQ ,DV
+2240,6-7-24,6-7-24,Madre Laura ,340 GR,,1,,,La Revuelta ,LFQ ,DV
+2242,6-7-24,6-7-24,Madre Laura ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+2243,6-7-24,6-7-24,Don Victor - Red Bourbon ,340 GR,,1,,,Daniel Velasquez ,LFQ ,DV
+2244,6-7-24,6-7-24,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+2245,6-7-24,6-7-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2245,6-7-24,6-7-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2249,6-7-24,6-7-24,Madre Laura ,2500 GR ,,1,,,ECC,LFQ ,DV
+2249,6-7-24,6-7-24,Madre Laura ,340 GR ,,15,,,ECC ,LFQ ,DV
+2249,15-7-24 ,15-7-24 ,Esteban Robledo ,340 GR ,,5,,,ECC,LFQ ,DV
+2249,15-7-24 ,15-7-24 ,Don Victor - Red Bourbon ,340 GR,,10,,,ECC ,LFQ ,DV
+2249,15-7-24,15-7-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2249,15-7-24,15-7-24,Gesha Honey - Villa Bernarda ,340 GR,,5,,,ECC ,LFQ ,DV
+2249,15-7-24,15-7-24,Caturro Natural - El Ocaso ,1000 GR ,,1,,,ECC,LFQ ,DV
+2247,15-7-24,15-7-24,Madre Laura ,2500 GR ,,2,,,Akio ,LFQ ,DV
+2248,15-7-24,15-7-24,Madre Laura ,2500 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2248,15-7-24,15-7-24,Familia Vergara ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2253,15-7-24,15-7-24,Madre Laura Natural ,340 GR ,,7,,,Soluciones Alegra ,LFQ ,DV
+2246,15-7-24,15-7-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+2050,15-7-24,15-7-24,Madre Laura ,2500 GR ,,1,,, Josue Marin ,LFQ ,DV
+2252,15-7-24,15-7-24,Madre Laura ,2500 GR,,1,,,Josue Marin ,LFQ ,DV
+2251,15-7-24,15-7-24,Madre Laura ,2500 GR,,6,,,Swiss Bakery ,LFQ ,DV
+2255,15-7-24,15-7-24,Madre Laura ,350 GR ,,5,,,Monkey Group,LFQ ,DV
+2254,15-7-24,15-7-24,Madre Laura ,2500 GR,,1,,,Josue Marin ,LFQ ,DV
+2256,15-7-24,15-7-24,Madre Laura ,2500 GR,,1,,,La Revuelta ,LFQ ,DV
+2258,25-7-24 ,25-7-24 ,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+2258,25-7-24 ,25-7-24 ,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+2258,25-7-24,25-7-24,Gesha Honey - Villa Bernarda ,340 GR,,5,,,ECC,LFQ ,DV
+2258,25-7-24,25-7-24,Madre Laura ,340 GR,,10,,,ECC,LFQ ,DV
+2258,25-7-24,25-7-24,Madre Laura ,2500 GR ,,1,,,ECC,LFQ ,DV
+2259,25-7-24,25-7-24,Madre Laura ,340 GR,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2259,25-7-24,25-7-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2260,25-7-24,25-7-24,Madre Laura ,2500 GR ,,2,,,Josue Marin ,LFQ ,DV
+2261,25-7-24,25-7-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2263,25-7-24,25-7-24,Madre Laura ,2500 GR,,1,,,Josue Marin ,LFQ ,DV
+2262,25-7-24,25-7-24,Madre Laura ,2500 GR,,5,,,Woolgrove ,LFQ ,DV
+2262,25-7-24,25-7-24,Madre Laura ,340 GR ,,4,,,Woolgrove ,LFQ ,DV
+2262,25-7-24,25-7-24,Gesha Honey - Villa Bernarda ,340 GR ,,4,,,Woolgrove ,LFQ ,DV
+2257,25-7-24,25-7-24,Madre Laura Natural ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2264,25-7-24,25-7-24,Madre Laura ,2500 GR ,,1,,,Jeronimo Vanegas,LFQ ,DV
+2289,25-7-24,25-7-24,Madre Laura ,2500 GR ,,1,,, Josue Marin ,LFQ ,DV
+2288,25-7-24,25-7-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2320,25-7-24,25-7-24,Madre Laura ,2500 GR ,,1,,,Jessica Giraldo ,LFQ ,DV
+2321,25-7-24,25-7-24,Esteban Robledo ,340 GR ,,1,,,Juan Diego Marin ,LFQ ,DV
+2321,25-7-24,25-7-24,Familia Bedoya Castaño ,340 GR,,1,,,Juan Diego Marin ,LFQ ,DV
+2322,25-7-24,25-7-24,Madre Laura ,2500 GR,,2,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Madre Laura Natural ,340 GR,,5,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Esteban Robledo ,340 GR,,5,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Caturro Natural - El Ocaso ,340 GR,,5,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Familia Bedoya Castaño ,340 GR,,4,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Esteban Robledo ,1000 GR,,1,,,ECC,LFQ ,DV
+2322,25-7-24,25-7-24,Familia Vergara ,1000 GR ,,1,,,ECC,LFQ ,DV
+2319,25-7-24,25-7-24,Madre Laura ,340 GR ,,3,,,Monkey Group,LFQ ,DV
+2323,25-7-24,25-7-24,Madre Laura ,2500 GR ,,2,,,Cecilia Zuluaga ,LFQ ,DV
+2325,25-7-24,25-7-24,Madre Laura ,2500 GR ,,1,,,Josue Marin ,LFQ ,DV
+2326,25-7-24,25-7-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2326,25-7-24,25-7-24,Familia Vergara ,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2326,25-7-24,25-7-24,Madre Laura Natural,340 GR ,,1,,,Alvaro Sarmiento ,LFQ ,DV
+2324,31-7-24 ,31-7-24 ,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+2327,31-7-24 ,31-7-24 ,Madre Laura ,340 GR ,,2,,,Cronicas ,LFQ ,DV
+2327,31-7-24,31-7-24,Madre Laura ,2500 GR ,,5,,,Cronicas ,LFQ ,DV
+2331,31-7-24,31-7-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2331,31-7-24,31-7-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2332,31-7-24,31-7-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2339,31-7-24,31-7-24,Madre Laura ,2500 GR,,1,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Familia Bedoya Castaño ,340 GR,,5,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Gesha Honey - Villa Bernarda ,340 GR,,5,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Familia Vergara ,340 GR,,5,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Esteban Robledo ,340 GR,,5,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Familia Bedoya Castaño ,1000 GR ,,1,,,ECC,LFQ ,DV
+2339,31-7-24,31-7-24,Caturro Natural - El Ocaso ,1000 GR ,,1,,,ECC,LFQ ,DV
+2333,31-7-24,31-7-24,Don Victor - Red Bourbon ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2341,31-7-24,31-7-24,Madre Laura ,2500 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2341,31-7-24,31-7-24,Madre Laura ,340 GR ,,1,,,Cecilia Zuluaga ,LFQ ,DV
+2334,31-7-24,31-7-24,Madre Laura ,2500 GR ,,2,,,Alvaro Sarmiento ,LFQ ,DV
+2335,1-8-24,1-8-24,Madre Laura ,2500 GR ,,1,,,La Revuelta ,LFQ ,DV
+2335,1-8-24,1-8-24,Madre Laura ,340 GR ,,1,,,La Revuelta ,LFQ ,DV
+2338,1-8-24,1-8-24,Madre Laura ,2500 GR ,,1,,,Calante ,LFQ ,DV
+2339,1-8-24,1-8-24,Madre Laura ,2500 GR ,,1,,,Daniel Herrera ,LFQ ,DV
+,12-8-24,12-8-24,Madre Laura ,2500 GR,,1,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Madre Laura ,340 GR ,,10,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Madre Laura ,340 GR ,,15,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Familia Bedoya Castaño ,340 GR,,5,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Gesha Honey - Villa Bernarda ,340 GR,,5,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Familia Vergara ,340 GR,,3,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Esteban Robledo ,340 GR,,10,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Madre Laura Natural ,340 GR ,,5,,,ECC,LFQ ,DV
+,12-8-24,12-8-24,Madre Laura Natural ,1000 GR ,,1,,,ECC,LFQ ,DV
+2340,12-8-24,12-8-24,Don Victor - Red Bourbon ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+2340,12-8-24,12-8-24,Madre Laura Natural ,2500 GR ,,1,,,Harold Patron ,LFQ ,DV
+618,10-8-22,10-8-22,Madre Laura ,500 gr,,2,,,JAVIER VALENCIA,AC,DC
+619,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,BEATRIZ FRANCO,AC,DC
+630,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,M TERESA CADAVID,AC,DC
+642,10-8-22,10-8-22,Madre Laura ,500 gr,,2,,,M TERESA CADAVID,AC,DC
+659,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,BEATRIZ FRANCO,AC,DC
+676,10-9-22,10-9-22,Madre Laura ,500 gr,,1,,,ANDREA CASTILLO,AC,DC
+691,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,M TERESA CADAVID,AC,DC
+693,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,LILIANA ROJAS,AC,DC
+702,10-9-22,10-9-22,Madre Laura ,500 gr,,1,,,LILIANA ROJAS,AC,DC
+,10-8-22,10-8-22,Madre Laura ,500 gr,,1,,,JAVIER VALENCIA,AC,DC
+,10-9-22,10-9-22,Madre Laura ,500 gr,,1,,,JAVIER VALENCIA,AC,DC
+,28-11-22,10-9-22,Madre Laura ,500 gr,,3,,,BEATRIZ FRANCO,AC,DC
+,03-12-22,10-09-22,Madre Laura ,500 gr,,1,,,DANYILA CORREA ,AC,DC
+,28-11-22,26-12-22,Madre Laura ,500 gr,,1,,,ADRIANA CORREA,AC,DC
+,28-11-22,27-12-22,Madre Laura ,500 gr,,2,,,BEATRIZ FRANCO,AC,DC
+,28-11-22,28-12-2022,Madre Laura ,500 gr,,2,,,ADRIANA BASTIDAS,AC,DC
+,28-11-22,28-11-2022,Madre Laura ,500 gr,,4,,,ADRIANA CORREA,AC,DC
+,11-01-23,11-1-23,Madre Laura ,500 gr,,2,,,BEATRIZ FRANCO,AC,DC
+,11-02-23,11-2-23,Madre Laura ,500 gr,,2,,,BEATRIZ FRANCO,AC,DC
+,11-02-23,11-2-23,Madre Laura ,500 gr,,1,,,DANYILA CORREA ,AC,DC
+,11-02-23,11-2-23,Madre Laura ,500 gr,,2,,,BEATRIZ FRANCO,AC,DC
+,11-02-23,11-2-23,Madre Laura ,500 gr,,1,,,BEATRIZ FRANCO,AC,DC
+,15-06-23,15-06-23,Madre Laura ,500 gr,,2,,,ADRIANA CASTRILLON,AC,DC
+,15-06-23,15-06-23,Madre Laura ,500 gr,,1,,,STEPHEN ARCILA,AC,DC
+,15-06-23,15-06-23,Madre Laura ,500 gr,,1,,,MARIANA RENDON,AC,DC
+,15-06-23,15-06-23,Madre Laura ,500 gr,,2,,,ANA GUTIERREZA,AC,DC
+,15-06-23,15-06-23,Madre Laura ,500 gr,,1,,,JAVIER VALENCIA,AC,DC

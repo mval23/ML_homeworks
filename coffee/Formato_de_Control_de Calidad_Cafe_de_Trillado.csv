@@ -1,0 +1,112 @@
+FECHA,LOTE  ,DENOMINACIÓN/     MARCA,CANTIDAD,%H,%H C/NC,# MALLAS,MALLAS C/NC,VERIFICACIÓN FISICA CAFÉ TOSTADO C/NC,NOTAS DE CATACIÓN,PUNTAJE,PUNTAJE  C/NC,LIBERACIÓN DE LOTE,RESPONSABLE 
+19-07-22,01-190722,Madre Laura ,765,10.9,C ,14,C ,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,LFQ
+19-7-22,09-190722,Tabi Natural ,204,10.2,C,14,C,C,"Frutas maduras, nibs de cacao, acidez brillante, cuerpo cremoso y final frutal ",85,C,Si ,LFQ 
+19-07-22,10-190722,Don Mario ,165,10.7,C,14,C,C,"Panela, durazno, miel, acidez brillante citrica, cuerpo sedoso y final limpio y prolongado",84.5,C,Si ,LFQ 
+27-07-22,07-19-07-22,Don Felix ,0.45,10.5,C,14,C,C,"Moras maduras, chocolate negro, acidez media citrica como naranja, cuerpo cremoso, balanaceado y final limpio.",84.5,C,Si ,LFQ
+31-10-22,01-291022,Madre Laura ,105,10.7,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,LFQ
+2/11/2022,01-291022,Madre Laura ,105,10.7,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,LFQ
+11/11/2022,01-101122,Madre Laura ,210,10.7,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,LFQ
+4/12/2022,08-241122,Gesha Villabernarda,12,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+4/12/2022,02-241122,Madre Laura Natural,19.4,10.5,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C ,Si ,LFQ
+4/12/2022,05-241122,Doña Dolly,35,10.8,C,14,C,C,"Panela, fresa, acidez brillante, cuerpo cremoso, naranja, final prolongado",85,C ,Si ,LFQ
+30-12-22,01-291222,Madre Laura ,70,10.7,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si ,LFQ 
+17-01-23,01-130123,Madre Laura ,585,11.2,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si ,LFQ 
+8/2/2023,03-010223,Madre Laura Descafeinado,210,10.5,C,14,C,C,"Chocolate dulce, limon, acidez jugosa citrica, cuerpo sedoso, final prolongado a un toque frutal ",84.5,C,Si,LFQ
+8/2/2023,01-010223,Madre Laura ,140,11.2,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ
+8/2/2023,02-010223,Madre Laura Natural,101,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+8/2/2023,05-010223,Doña Dolly,70,10.5,C,14,C,C,"Frambuesa, miel, acidez brillante citrica como mandarina, cuerpo cremoso medio y final frutal prolongado. 
+",85,C,Si,LFQ
+8/2/2023,07-010223,Don Felix ,49,10.6,C,14,C,C,"Moras maduras, chocolate negro, acidez media citrica como naranja, cuerpo cremoso, balanaceado y final limpio.",85,C,Si,LFQ
+8/2/2023,11-010223,Monteverde - Wush Wush,10,10.2,C,14,C,C,"Sandia, caramelo, cedro, cuerpo cremoso, acidez brillante, final dulce",89,C,SI,LFQ
+8/2/2023,12-010223,El Ocaso - Pink Bourbon,59,10.8,C,14,C,C,"Manzana roja, acidez malica, fresas, limon, cuerpo aterciopelado,  final dulce ",87,C,SI,LFQ
+21-02-23,08-200223,Gesha Villabernarda,5,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+4/3/2023,08-030323,Gesha Villabernarda,36.8,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+7/3/2023,01-070323,Madre Laura ,716,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ
+14-4-23,09-120423,Tabi Natural ,70,10.2,C,14,C,C,"Frutas maduras, nibs de cacao, acidez brillante, cuerpo cremoso y final frutal ",85,C,Si ,LFQ 
+14-4-23,11-140423,Monteverde - Wush Wush,8,10.2,C,14,C,C,"Sandia, caramelo, cedro, cuerpo cremoso, acidez brillante, final dulce",89,C,SI,LFQ
+20-4-23,01-200423,Madre Laura ,691,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ
+20-4-23,09-200423,Tabi Natural ,63,10.2,C,14,C,C,"Frutas maduras, nibs de cacao, acidez brillante, cuerpo cremoso y final frutal ",85,C,Si ,LFQ 
+20-4-23,02-200423,Madre Laura Natural,73,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+26-4-23,08-260423,Gesha Villabernarda,36.8,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+25-5-23,13-250523,El Cedrela - Pink Bourbon,15,10.2,C,14,C,C,"Arandanos, clavos de olor, caramleo, cuerpo cremoso, acidez brillante y final frutal ",87.5,C,Si,LFQ
+2/6/2023,01-020623,Madre Laura ,735,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ
+24-6-23,09-240623,Tabi Natural ,200,10.2,C,14,C,C,"Frutas maduras, nibs de cacao, acidez brillante, cuerpo cremoso y final frutal ",85,C,Si ,LFQ 
+4/7/2023,07-040723,Don Felix ,29,10.5,C,14,C,C,"Moras maduras, chocolate negro, acidez media citrica como naranja, cuerpo cremoso, balanaceado y final limpio.",84.5,C,Si ,LFQ
+4/7/2023,08-040723,Gesha Villabernarda,36.8,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+12/7/2023,11-120723,Monteverde - Wush Wush,22,10.2,C,14,C,C,"Sandia, caramelo, cedro, cuerpo cremoso, acidez brillante, final dulce",89,C,SI,LFQ
+2/8/2023,01-020823,Madre Laura ,740,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI ,LFQ 
+16-8-23,01-160823,Madre Laura ,47,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI ,LFQ 
+16-8-23,02-160823,Madre Laura Natural,101,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+8/9/2023,08-080923,Gesha Villabernarda,41,10.6,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C,Si,LFQ
+8/9/2023,16-080923,Gesha Villa - Natural ,35,10.3,C,14,C,C,"Lavanda, mora, acidez brillante, cuepo cremoso, final dulce prolongado","86,5 ",C,Si,LFQ
+8/9/2023,14-080923,Don Reinaldo ,31,10.5,C,14,C,C,"Cereza, dulce de leche, cuerpo sedoso, acidez brillante, final con notas a almendras ",,C,Si,LFQ
+8/9/2023,15-080923 ,Don Victor - Marago ,35,10.9,C,16,C,C,"Rosas, frambuesa, miel de maple, cuerpo cremoso, acidez brillante, final dulce ",87,C,Si,LFQ
+4/10/2023,01-041023 ,Madre Laura ,320,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+4/10/2023,15-041023,Don Victor - Marago ,50,10.5,C,16,C,C,"Rosas, frambuesa, miel de maple, cuerpo cremoso, acidez brillante, final dulce ",87,C,Si,LFQ 
+20-10-23 ,06-201023 ,Don Rafael ,168,10.9,C,14,C,C,"Azucar morena, vainilla, acidez jugosa como tamarindo, cuerpo sedoso y final limpio ",86.5,C,Si,LFQ 
+20-10-23 ,04-201023 ,Doña Rosalba ,96,10.6,C,14,C,C,"Uva, flor de naranja, acidez brillante, cuerpo cremoso y final dulce como la melaza",85,C,Si,LFQ 
+20-10-23 ,10-201023 ,Doña Liceth ,96,10.4,C,14,C,C,"Caña de azucar, nueces, acidez citrica como la naranja, cuerpo medio, final prolongado",84.5,C,Si,LFQ 
+30-10-23,02-301023,Madre Laura Natural,24,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+30-10-23,11-301023,Monteverde - Wush Wush,22,10.2,C,14,C,C,"Sandia, caramelo, cedro, cuerpo cremoso, acidez brillante, final dulce",89,C,SI,LFQ
+14-11-23 ,09-141123 ,Tabi Natural ,47,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ
+14-11-23 ,01-141123 ,Madre Laura Lavado,312,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+14-11-23,17-141123 ,Familia Bedoya Castaño,35,10.8,C,14,C,C,"Chocolate dulce, ciruela madura, cuerpo cremoso, acidez malica brillante, final especiado como clavos de olor ",87,C,Si,LFQ 
+11/12/2023,08-111223,Gesha Villabernarda,15,10.6,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C,Si,LFQ
+11/12/2023,02-111223 ,Madre Laura Natural,20,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+11/12/2023,05-111223 ,Doña Dolly,15,10.5,C,14,C,C,"Frambuesa, miel, acidez brillante citrica como mandarina, cuerpo cremoso medio y final frutal prolongado. 
+",85,C,Si,LFQ
+19-12-23,01-191223,Madre Laura ,50,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+22-12-23 ,18-221223,Don Johan,35,10.5,C,14,C,C,"Limonaria, panela, acidez jugosa, cuerpo medio, residual frutal a naranja",86,C,Si,LFQ 
+22-1-24 ,01-220124,Madre Laura ,23,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+22-2-24,02-220124,Madre Laura Natural,20,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+13-2-24 ,19-130224 ,Gesha Blue - Monteverde ,35,10.4,C,14,C,C,"Fresa, lavanda, menta, chocolate al 70% , acidez jugosa, cuerpo cremoso y final dulce",89,C,Si,LFQ
+13-2-24 ,20-130224 ,Bourbon Sidra - Las Flores ,35,10.5,C,14,C,C,"Maracuya, te de cedron, acidez jugosa, cuerpo aterciopelado y final floral dulce ",89,C,Si,LFQ
+13-2-24 ,21-130224 ,Don Victor - Red Bourbon,35,10.6,C,14,C,C,"Jalea, arandanos, cuerpo cremoso, acidez brillante y residual frutal a naranja ",88,C,Si,LFQ
+20-2-24 ,07-200224 ,Don Felix ,29,10.5,C,14,C,C,"Moras maduras, chocolate negro, acidez media citrica como naranja, cuerpo cremoso, balanaceado y final limpio.",84.5,C,Si ,LFQ
+29-2-24 ,01-290224 ,Madre Laura ,175,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+29-2-24 ,02-290224 ,Madre Laura Natural,70,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+7/4/2024,05-070424,Doña Dolly,26,10.5,C,14,C,C,"Frambuesa, miel, acidez brillante citrica como mandarina, cuerpo cremoso medio y final frutal prolongado. 
+",85,C,Si,LFQ
+12/4/2024,01-120424,Madre Laura ,350,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+22-4-24,01-220424,Madre Laura ,266,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+14-5-24 ,20-140524,Bourbon Sidra - Las Flores ,35,10.5,C,14,C,C,"Maracuya, te de cedron, acidez jugosa, cuerpo aterciopelado y final floral dulce ",89,C,Si,LFQ
+14-5-24 ,08-140524,Gesha Villabernarda,35,10.6,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C,Si,LFQ
+14-5-24,02-140524,Madre Laura Natural,175,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+17-6-24 ,01-170624 ,Madre Laura ,266,10.6,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+17-6-24 ,22-170624 ,El Ocaso - Caturron ,48,10.3,C,15,C,C,"Chocolate dulce, nuez moscada, acidez jugosa, cuerpo cremoso y final frutal a durazno",87,C,Si,LFQ 
+3/7/2024,01-030724,Madre Laura ,250,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,Si,LFQ 
+15-07-24 ,23-150724 ,Esteban Robledo ,60,10.6,C,14,C,C,"Panela, almendras, acidez citrica jugosa como la mandrina, cuerpo sedoso y final limpio ",85,C,Si ,LFQ 
+15-07-24 ,02-150724 ,Madre Laura Natural,175,10.8,C,14,C,C,"Cacao, frutos rojos, cuerpo cremoso, acidez brillante, final frutal",85,C,Si,LFQ
+27-7-24,17-270724,Familia Bedoya Castaño,35,10.8,C,14,C,C,"Melao de panela, arandanos, cuerpo cremoso, acidez brillante citrica, residual a cascara de mandarina ",87,C,Si,LFQ 
+30-08-22,01-300822,Madre Laura ,32,"10,5",C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,AC
+13-10-22,01-131022,Madre Laura ,79.8,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C ,Si ,AC
+18-10-22,01-181022,Madre Laura ,38,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+18-10-22,05-181022,Doña Dolly,43,10,C,14,C,C,"Chocolate dulce,fresas,miel,cuerpo cremoso,acidez jugosa citrica y final frutal.",85,C,SI,AC
+29-10-22,01-291022,Madre Laura ,272,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+3/11/2022,08-031122,Gesha Villabernarda,19.3,10.4,C,14,C,C,"Jazmin,limonciollo, acidez jugosa, cuerpo sedoso, fnal dulce y prolongado",86,C,SI,AC
+10/11/2022,01-101122,Madre Laura ,255.5,10.2,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+18-11-22,01-181122,Madre Laura ,13.2,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+18-11-22,06-181122,Don Victor ,13,10.8,C,14,C,C,"Frutas amarillas, cuerpo cremoso, acidez brillante, miel y final dulce ",85,C,SI,AC
+21-11-22,01-211122,Madre Laura ,37.8,10.4,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+28-11-22,01-281122,Madre Laura ,158,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+16-12-2,01-161222,Madre Laura ,170,10.7,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+26-12-22,01-261222,Madre Laura ,70,"10,8",C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+29-12-22,01-291222,Madre Laura ,225,11.3,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+11/1/2023,08-110123,Gesha Villabernarda,34,10.8,C,14,C,C,,,,,
+11/1/2023,01-110123,Madre Laura ,10,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+24-01-23,01-240123,Madre Laura ,40,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+6/2/2023,01-060223,Madre Laura ,47.6,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+16-02-23,01-160223,Madre Laura ,92,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+21-02-23,08-210223,Gesha Villabernarda,5,10.3,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C ,Si ,LFQ
+1/3/2023,08-010323,Gesha Villabernarda,50,10.5,C,14,C,C,"Jazmin, mandarina, acidez jugosa, cuerpo sedoso y final frutal ",86,C,SI,AC
+28-03-23,01-280323,Madre Laura ,60,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+29-03-23,01-290323,Madre Laura ,65,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+10/4/2023,01-100423,Madre Laura ,120,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+24-04-23,01-240423,Madre Laura ,101.45,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+4/5/2023,01-040523,Madre Laura ,40,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+15-Jun-23,01-150623,Madre Laura ,10,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+27-Oct-23,01-271023,Madre Laura ,20,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+10-Ene-2024,01-100124,Madre Laura ,20,10.4,c,14,c,c,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+02-Abril-2024,01-020424,Madre Laura ,20,10.5,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+20-Jun-24,01-200624,Madre Laura ,14,10.8,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,AC
+18-Jul-24,01-180724,Madre Laura ,20,10.2,C,14,C,C,"Chocolate negro, toque frutal, cuerpo medio, acidez jugosa citrica, final dulce prolongado",84,C,SI,Ac
