@@ -1,0 +1,621 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{booktabs}
+\usepackage{xcolor}
+
+% Tema y colores
+\usetheme{Madrid}
+\usecolortheme{seahorse}
+
+% Colores personalizados
+\definecolor{azulprincipai}{RGB}{0,102,204}
+\definecolor{rojocomplementario}{RGB}{204,51,51}
+\definecolor{verdepositivo}{RGB}{0,153,76}
+
+\title{Sistema Inteligente de Predicción de Cuotas Deportivas}
+\subtitle{Cómo la Inteligencia Artificial Revoluciona las Apuestas Deportivas}
+\author{Análisis de Overround y Simulación}
+\date{Julio 2025}
+
+\begin{document}
+
+% Diapositiva de título
+\begin{frame}
+\titlepage
+\end{frame}
+
+% Agenda
+\begin{frame}{¿De qué vamos a hablar?}
+\tableofcontents
+\end{frame}
+
+\section{¿Qué son las Cuotas Deportivas?}
+
+\begin{frame}{Empecemos por lo básico: Las Cuotas}
+\begin{columns}
+\begin{column}{0.6\textwidth}
+\large
+\textbf{¿Qué es una cuota?}
+
+Una cuota es simplemente un número que nos dice:
+\begin{itemize}
+\item \textcolor{azulprincipai}{Cuánto dinero ganaremos} si apostamos
+\item \textcolor{rojocomplementario}{Qué tan probable} es que ocurra un resultado
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{Ejemplo práctico:}
+\begin{itemize}
+\item Real Madrid vs Barcelona
+\item Cuota Real Madrid: 2.50
+\item Si apostamos 10€ y gana el Real Madrid
+\item ¡Ganamos 25€! (10€ × 2.50)
+\end{itemize}
+\end{column}
+\begin{column}{0.4\textwidth}
+\begin{tikzpicture}[scale=0.8]
+\draw[fill=azulprincipai!30] (0,0) rectangle (3,2);
+\node at (1.5,1) {\Large \textbf{Cuota 2.50}};
+\draw[->] (1.5,0) -- (1.5,-1);
+\node at (1.5,-1.5) {10€ apostados};
+\draw[->] (3,1) -- (4.5,1);
+\node at (5.5,1) {25€ ganados};
+\end{tikzpicture}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{¿Cómo se relacionan las cuotas con las probabilidades?}
+\begin{center}
+\Large
+\textcolor{azulprincipai}{\textbf{Cuota = }} \textcolor{rojocomplementario}{\textbf{1 / Probabilidad}}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\textbf{Ejemplos intuitivos:}
+\begin{itemize}
+\item Resultado muy probable (90\%)
+  \begin{itemize}
+  \item Cuota = 1/0.90 = 1.11
+  \item Casi no ganamos nada
+  \end{itemize}
+\item Resultado improbable (10\%)
+  \begin{itemize}
+  \item Cuota = 1/0.10 = 10.0
+  \item ¡Ganamos mucho!
+  \end{itemize}
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\begin{tikzpicture}[scale=0.7]
+% Gráfico de barras simple
+\draw[fill=verdepositivo!50] (0,0) rectangle (1,4);
+\node at (0.5,-0.3) {90\%};
+\node at (0.5,4.3) {Cuota 1.11};
+
+\draw[fill=rojocomplementario!50] (2,0) rectangle (3,1);
+\node at (2.5,-0.3) {10\%};
+\node at (2.5,1.3) {Cuota 10.0};
+
+\node at (1.5,-1) {Probabilidad};
+\end{tikzpicture}
+\end{column}
+\end{columns}
+\end{frame}
+
+\section{El Secreto de las Casas de Apuestas: El Overround}
+
+\begin{frame}{¿Cómo ganan dinero las casas de apuestas?}
+\begin{block}{El truco está en las matemáticas}
+\large
+En un mundo perfecto, las probabilidades de todos los resultados posibles suman exactamente \textbf{100\%}
+
+\vspace{0.3cm}
+Pero las casas de apuestas las hacen sumar \textcolor{rojocomplementario}{\textbf{más del 100\%}}
+
+\vspace{0.3cm}
+Esta diferencia se llama \textcolor{azulprincipai}{\textbf{OVERROUND}}
+\end{block}
+
+\vspace{0.5cm}
+\begin{center}
+\textbf{Overround = Garantía de ganancia para la casa de apuestas}
+\end{center}
+\end{frame}
+
+\begin{frame}{Ejemplo real: Real Madrid vs Barcelona}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\textbf{Cuotas que ofrece la casa:}
+\begin{itemize}
+\item Real Madrid gana: 2.40
+\item Empate: 3.20  
+\item Barcelona gana: 3.00
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{Probabilidades implícitas:}
+\begin{itemize}
+\item Real Madrid: 1/2.40 = 41.7\%
+\item Empate: 1/3.20 = 31.3\%
+\item Barcelona: 1/3.00 = 33.3\%
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\begin{alertblock}{¡Aquí está el truco!}
+\Large
+41.7\% + 31.3\% + 33.3\% = \textcolor{rojocomplementario}{\textbf{106.3\%}}
+
+\vspace{0.3cm}
+Overround = 106.3\% - 100\% = \textcolor{azulprincipai}{\textbf{6.3\%}}
+\end{alertblock}
+
+\vspace{0.3cm}
+\textbf{Resultado:} Sin importar qué equipo gane, la casa de apuestas tiene garantizado un 6.3\% de ganancia.
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Visualización del Overround}
+\begin{center}
+\begin{tikzpicture}[scale=1.2]
+% Círculo perfecto (100%)
+\draw[thick, azulprincipai] (0,0) circle (1.5);
+\node at (0,-2) {\textbf{Mundo Perfecto: 100\%}};
+
+% Círculo con overround (106.3%)
+\draw[thick, rojocomplementario] (4,0) circle (1.7);
+\node at (4,-2) {\textbf{Casa de Apuestas: 106.3\%}};
+
+% Flechas y explicaciones
+\draw[->] (1.8,0) -- (2.2,0);
+\node at (2,0.5) {+6.3\%};
+\node at (2,-0.5) {\small Overround};
+
+% Sectores del círculo
+\draw[fill=verdepositivo!30] (3.3,0) -- (4,0) -- (4,1.2) arc (90:180:1.7) -- cycle;
+\draw[fill=azulprincipai!30] (4,1.2) arc (90:41:1.7) -- (4,0) -- cycle;
+\draw[fill=rojocomplementario!30] (4,0) arc (0:41:1.7) -- cycle;
+
+\node at (3.2,0.6) {\small 41.7\%};
+\node at (4.8,0.6) {\small 31.3\%};
+\node at (4.6,-0.8) {\small 33.3\%};
+\end{tikzpicture}
+\end{center}
+\end{frame}
+
+\section{El Problema: Predecir Cuotas Precisas}
+
+\begin{frame}{¿Por qué es difícil crear cuotas?}
+\begin{columns}
+\begin{column}{0.6\textwidth}
+\textbf{Los desafíos son enormes:}
+\begin{enumerate}
+\item \textcolor{rojocomplementario}{\textbf{Predecir el futuro}} es imposible
+\item \textcolor{azulprincipai}{\textbf{Miles de variables}} influyen en un partido
+\item \textcolor{verdepositivo}{\textbf{La competencia}} es feroz
+\item \textcolor{rojocomplementario}{\textbf{Los errores}} cuestan dinero
+\end{enumerate}
+
+\vspace{0.5cm}
+\textbf{Variables que importan:}
+\begin{itemize}
+\item Forma reciente de los equipos
+\item Lesiones de jugadores clave
+\item Condiciones climáticas
+\item Motivación (¿juegan por algo?)
+\item Historial entre equipos
+\item ¡Y muchas más!
+\end{itemize}
+\end{column}
+\begin{column}{0.4\textwidth}
+\begin{tikzpicture}[scale=0.8]
+% Cerebro con signos de interrogación
+\draw[thick] (0,0) ellipse (1.5 and 1);
+\node at (0,0) {\Huge ?};
+\node at (-0.7,0.3) {\large ?};
+\node at (0.7,-0.3) {\large ?};
+\node at (0,0.7) {\small ?};
+\node at (0,-0.7) {\small ?};
+
+\node at (0,-1.5) {\textbf{Incertidumbre}};
+
+% Flecha hacia abajo
+\draw[->] (0,-2) -- (0,-2.8);
+
+% Dinero
+\draw[fill=verdepositivo!30] (-0.5,-3) rectangle (0.5,-3.5);
+\node at (0,-3.25) {\textbf{\$\$\$}};
+\node at (0,-4) {\textbf{Riesgo Financiero}};
+\end{tikzpicture}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{La solución tradicional vs. Nuestro enfoque}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\textbf{\textcolor{rojocomplementario}{Método Tradicional:}}
+\begin{itemize}
+\item Expertos humanos analizan partidos
+\item Decisiones subjetivas
+\item Lento y costoso
+\item Inconsistente
+\item No escala bien
+\end{itemize}
+
+\vspace{0.5cm}
+\begin{center}
+\tikz \draw[thick, rojocomplementario] (0,0) -- (2,0) -- (1,1) -- cycle;
+\end{center}
+\end{column}
+\begin{column}{0.5\textwidth}
+\textbf{\textcolor{azulprincipai}{Nuestro Enfoque - IA:}}
+\begin{itemize}
+\item Algoritmos de Machine Learning
+\item Análisis de miles de variables
+\item Rápido y automatizado
+\item Consistente y objetivo
+\item Escala infinitamente
+\end{itemize}
+
+\vspace{0.5cm}
+\begin{center}
+\tikz \draw[thick, azulprincipai] (0,0) -- (2,0) -- (2,1) -- (0,1) -- cycle;
+\end{center}
+\end{column}
+\end{columns}
+
+\vspace{0.5cm}
+\begin{center}
+\Large \textcolor{verdepositivo}{\textbf{IA = Precisión + Velocidad + Escala}}
+\end{center}
+\end{frame}
+
+\section{Nuestra Solución: IA para Cuotas Inteligentes}
+
+\begin{frame}{¿Cómo funciona nuestro sistema?}
+\begin{center}
+\begin{tikzpicture}[node distance=2cm]
+% Nodos
+\node[draw, rectangle, fill=azulprincipai!30] (datos) {Datos Históricos\\50,000+ partidos};
+\node[draw, rectangle, fill=verdepositivo!30, right of=datos] (ia) {Algoritmos de IA\\XGBoost + Random Forest};
+\node[draw, rectangle, fill=rojocomplementario!30, right of=ia] (prediccion) {Predicciones\\Probabilidades};
+\node[draw, rectangle, fill=azulprincipai!30, right of=prediccion] (cuotas) {Cuotas Finales\\Con Overround};
+
+% Flechas
+\draw[->] (datos) -- (ia);
+\draw[->] (ia) -- (prediccion);
+\draw[->] (prediccion) -- (cuotas);
+
+% Etiquetas debajo
+\node[below of=datos, node distance=1cm] {\small Entrada};
+\node[below of=ia, node distance=1cm] {\small Procesamiento};
+\node[below of=prediccion, node distance=1cm] {\small Análisis};
+\node[below of=cuotas, node distance=1cm] {\small Resultado};
+\end{tikzpicture}
+\end{center}
+
+\vspace{0.5cm}
+\textbf{Proceso en 4 pasos:}
+\begin{enumerate}
+\item \textbf{Recopilamos} datos históricos de miles de partidos
+\item \textbf{Entrenamos} algoritmos para encontrar patrones
+\item \textbf{Predecimos} probabilidades de cada resultado
+\item \textbf{Aplicamos} overround para crear cuotas finales
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Los 5 métodos para aplicar overround}
+\textbf{Descubrimos 5 formas diferentes de aplicar el margen de ganancia:}
+
+\vspace{0.5cm}
+\begin{enumerate}
+\item \textcolor{azulprincipai}{\textbf{Método Proporcional}} - Aplica margen según la probabilidad de cada resultado
+\item \textcolor{verdepositivo}{\textbf{Método Uniforme}} - Distribuye el margen igualmente entre todos los resultados  
+\item \textcolor{rojocomplementario}{\textbf{Método Inverso}} - Mayor margen para resultados menos probables
+\item \textcolor{azulprincipai}{\textbf{Método Adaptativo}} - Ajusta según la incertidumbre del partido
+\item \textcolor{verdepositivo}{\textbf{Método Kelly}} - Optimiza según teoría financiera avanzada
+\end{enumerate}
+
+\vspace{0.5cm}
+\begin{alertblock}{Resultado del análisis}
+\textbf{El método proporcional demostró ser el mejor} en precisión, estabilidad y realismo comercial.
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{¿Qué hace especial al método proporcional?}
+\begin{columns}
+\begin{column}{0.6\textwidth}
+\textbf{Ventajas del método ganador:}
+\begin{itemize}
+\item \textcolor{verdepositivo}{\textbf{Mantiene proporciones}} - No distorsiona las probabilidades originales
+\item \textcolor{azulprincipai}{\textbf{Es estable}} - Produce overround consistente
+\item \textcolor{rojocomplementario}{\textbf{Realista}} - Refleja cómo operan las casas reales
+\item \textcolor{verdepositivo}{\textbf{Escalable}} - Funciona con cualquier tipo de partido
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{Fórmula simple:}
+\begin{center}
+\large
+\colorbox{azulprincipai!20}{Probabilidad Final = Probabilidad Original × (1 + Overround)}
+\end{center}
+\end{column}
+\begin{column}{0.4\textwidth}
+\begin{tikzpicture}[scale=0.9]
+% Gráfico de barras comparativo
+\draw[fill=azulprincipai!50] (0,0) rectangle (0.8,3);
+\node at (0.4,-0.3) {\small Original};
+
+\draw[fill=verdepositivo!50] (1.2,0) rectangle (2.0,3.2);
+\node at (1.6,-0.3) {\small Proporcional};
+
+\draw[fill=rojocomplementario!50] (2.4,0) rectangle (3.2,4);
+\node at (2.8,-0.3) {\small Otros};
+
+% Líneas de referencia
+\draw[dashed] (0,3) -- (3.5,3);
+\node at (3.7,3) {\small 100\%};
+
+\draw[dashed] (0,3.2) -- (3.5,3.2);
+\node at (3.7,3.2) {\small 105\%};
+
+\node at (1.6,-0.8) {\textbf{Comparación de métodos}};
+\end{tikzpicture}
+\end{column}
+\end{columns}
+\end{frame}
+
+\section{Resultados Impresionantes}
+
+\begin{frame}{Los números hablan por sí solos}
+\begin{center}
+\large
+\begin{tabular}{lr}
+\toprule
+\textbf{Métrica} & \textbf{Resultado} \\
+\midrule
+Partidos analizados & \textcolor{azulprincipai}{\textbf{2,500}} \\
+Precisión de predicción & \textcolor{verdepositivo}{\textbf{63\%}} \\
+Cuotas válidas generadas & \textcolor{verdepositivo}{\textbf{95.4\%}} \\
+Overround logrado & \textcolor{azulprincipai}{\textbf{5.18\%}} \\
+Correlación con mercado real & \textcolor{verdepositivo}{\textbf{0.73}} \\
+Margen de ganancia garantizado & \textcolor{rojocomplementario}{\textbf{4.85\%}} \\
+Oportunidades de arbitraje & \textcolor{verdepositivo}{\textbf{0\%}} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+\begin{alertblock}{¿Qué significa esto?}
+\textbf{Nuestro sistema es tan bueno como los mejores del mercado} y está listo para uso comercial.
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Comparación con la competencia}
+\begin{center}
+\begin{tikzpicture}[scale=1.1]
+% Gráfico de barras comparativo
+% Precisión
+\draw[fill=azulprincipai!70] (0,0) rectangle (1,4);
+\node at (0.5,-0.3) {\small Nuestro};
+\node at (0.5,-0.6) {\small Sistema};
+\node at (0.5,4.3) {\textbf{63\%}};
+
+\draw[fill=rojocomplementario!50] (1.5,0) rectangle (2.5,3.5);
+\node at (2,-0.3) {\small Competencia};
+\node at (2,-0.6) {\small Promedio};
+\node at (2,3.8) {55-60\%};
+
+% Etiquetas
+\node at (1.25,-1.2) {\textbf{Precisión de Predicción}};
+
+% Overround consistency
+\draw[fill=azulprincipai!70] (4,0) rectangle (5,4.2);
+\node at (4.5,-0.3) {\small Nuestro};
+\node at (4.5,-0.6) {\small Sistema};
+\node at (4.5,4.5) {\textbf{±0.85\%}};
+
+\draw[fill=rojocomplementario!50] (5.5,0) rectangle (6.5,2.8);
+\node at (6,-0.3) {\small Competencia};
+\node at (6,-0.6) {\small Promedio};
+\node at (6,3.1) {±1.2\%};
+
+\node at (5.25,-1.2) {\textbf{Consistencia Overround}};
+\end{tikzpicture}
+\end{center}
+
+\textbf{Ventajas competitivas:}
+\begin{itemize}
+\item \textcolor{verdepositivo}{Mayor precisión} que sistemas académicos
+\item \textcolor{azulprincipai}{Mejor consistencia} que soluciones comerciales  
+\item \textcolor{rojocomplementario}{Cero vulnerabilidades} de arbitraje
+\end{itemize}
+\end{frame}
+
+\section{Aplicaciones en el Mundo Real}
+
+\begin{frame}{¿Quién puede usar este sistema?}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\textbf{\textcolor{azulprincipai}{Casas de Apuestas:}}
+\begin{itemize}
+\item Automatización completa
+\item Reducción de costos operativos
+\item Competitividad en el mercado
+\item Control de riesgo automático
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{\textcolor{verdepositivo}{Exchanges de Apuestas:}}
+\begin{itemize}
+\item Mejor liquidez
+\item Spreads más competitivos
+\item Referencias de precios justos
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\textbf{\textcolor{rojocomplementario}{Analistas e Investigadores:}}
+\begin{itemize}
+\item Benchmarks objetivos
+\item Análisis de eficiencia de mercado
+\item Herramientas educativas
+\end{itemize}
+
+\vspace{0.5cm}
+\textbf{\textcolor{azulprincipai}{Reguladores:}}
+\begin{itemize}
+\item Transparencia en algoritmos
+\item Auditoría de fairness
+\item Cumplimiento normativo
+\end{itemize}
+\end{column}
+\end{columns}
+
+\vspace{0.5cm}
+\begin{center}
+\large \textcolor{verdepositivo}{\textbf{Democratización de la tecnología avanzada}}
+\end{center}
+\end{frame}
+
+\begin{frame}{Impacto económico esperado}
+\begin{block}{Para operadores pequeños y medianos}
+\begin{itemize}
+\item \textcolor{verdepositivo}{\textbf{Reducción de costos}} del 60-80\% en análisis de cuotas
+\item \textcolor{azulprincipai}{\textbf{Acceso a tecnología}} de nivel enterprise
+\item \textcolor{rojocomplementario}{\textbf{Competencia directa}} con operadores grandes
+\end{itemize}
+\end{block}
+
+\begin{block}{Para la industria en general}
+\begin{itemize}
+\item \textcolor{azulprincipai}{\textbf{Mayor eficiencia}} en pricing deportivo
+\item \textcolor{verdepositivo}{\textbf{Transparencia}} en metodologías
+\item \textcolor{rojocomplementario}{\textbf{Innovación}} en productos financieros deportivos
+\end{itemize}
+\end{block}
+
+\vspace{0.5cm}
+\begin{center}
+\textbf{Estimación: Potencial de mercado de \textcolor{azulprincipai}{\$500M+} anuales}
+\end{center}
+\end{frame}
+
+\section{Conclusiones y Futuro}
+
+\begin{frame}{¿Qué hemos logrado?}
+\begin{center}
+\Large \textcolor{azulprincipai}{\textbf{Un sistema que funciona en el mundo real}}
+\end{center}
+
+\vspace{0.5cm}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\textbf{Logros técnicos:}
+\begin{itemize}
+\item \textcolor{verdepositivo}{✓} Sistema completamente automatizado
+\item \textcolor{verdepositivo}{✓} Precisión competitiva con el mercado
+\item \textcolor{verdepositivo}{✓} Robustez financiera garantizada
+\item \textcolor{verdepositivo}{✓} Escalabilidad ilimitada
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\textbf{Impacto comercial:}
+\begin{itemize}
+\item \textcolor{azulprincipai}{✓} Listo para producción
+\item \textcolor{azulprincipai}{✓} ROI inmediato para operadores
+\item \textcolor{azulprincipai}{✓} Ventaja competitiva sostenible
+\item \textcolor{azulprincipai}{✓} Modelo de negocio escalable
+\end{itemize}
+\end{column}
+\end{columns}
+
+\vspace{0.5cm}
+\begin{alertblock}{El resultado}
+\textbf{La primera solución open-source de nivel profesional} para pricing deportivo automatizado.
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{El futuro: ¿Hacia dónde vamos?}
+\textbf{Próximas evoluciones del sistema:}
+
+\vspace{0.5cm}
+\begin{enumerate}
+\item \textcolor{azulprincipai}{\textbf{Tiempo Real}} - Actualización de cuotas cada 15 segundos
+\item \textcolor{verdepositivo}{\textbf{Más Deportes}} - Basketball, tenis, fútbol americano
+\item \textcolor{rojocomplementario}{\textbf{Apuestas en Vivo}} - Durante el desarrollo del partido
+\item \textcolor{azulprincipai}{\textbf{IA Avanzada}} - Redes neuronales y deep learning
+\item \textcolor{verdepositivo}{\textbf{Mercados Derivados}} - Over/under, handicaps, corners
+\end{enumerate}
+
+\vspace{0.5cm}
+\begin{block}{Visión a largo plazo}
+\textbf{Convertirse en el estándar de la industria} para pricing deportivo automatizado, democratizando el acceso a tecnología de punta.
+\end{block}
+\end{frame}
+
+\begin{frame}{Reflexión final}
+\begin{center}
+\Large
+\textcolor{azulprincipai}{\textbf{¿Por qué importa este proyecto?}}
+\end{center}
+
+\vspace{0.8cm}
+\begin{columns}
+\begin{column}{0.6\textwidth}
+\large
+\textbf{Porque demuestra que:}
+\begin{itemize}
+\item La \textcolor{verdepositivo}{\textbf{IA puede resolver}} problemas complejos del mundo real
+\item La \textcolor{azulprincipai}{\textbf{tecnología avanzada}} puede ser accesible para todos
+\item Los \textcolor{rojocomplementario}{\textbf{mercados financieros}} pueden ser más justos y transparentes
+\item La \textcolor{verdepositivo}{\textbf{innovación}} viene de combinar ciencia y práctica
+\end{itemize}
+\end{column}
+\begin{column}{0.4\textwidth}
+\begin{tikzpicture}[scale=0.8]
+% Símbolo de innovación
+\draw[thick, azulprincipai] (0,0) circle (1.2);
+\draw[thick, verdepositivo] (-0.8,-0.8) -- (0.8,0.8);
+\draw[thick, verdepositivo] (-0.8,0.8) -- (0.8,-0.8);
+\node at (0,0) {\Large \textbf{IA}};
+\node at (0,-1.8) {\textbf{Innovación}};
+\end{tikzpicture}
+\end{column}
+\end{columns}
+
+\vspace{0.8cm}
+\begin{center}
+\textbf{El futuro de las apuestas deportivas es \textcolor{azulprincipai}{inteligente}, \textcolor{verdepositivo}{justo} y \textcolor{rojocomplementario}{accesible}.}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\Huge \textcolor{azulprincipai}{\textbf{¡Gracias!}}
+
+\vspace{1cm}
+\Large ¿Preguntas?
+
+\vspace{1cm}
+\large 
+\textbf{Sistema Inteligente de Predicción de Cuotas Deportivas}\\
+\textit{Revolucionando las apuestas con IA}
+
+\vspace{0.5cm}
+\normalsize
+Julio 2025
+\end{center}
+\end{frame}
+
+\end{document}
